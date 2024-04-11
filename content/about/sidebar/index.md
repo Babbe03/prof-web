@@ -7,12 +7,12 @@ show_social_links: true # specify social accounts in site config
 audio_link_label: "How to say my name" # leave blank to exclude
 link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
-- name: Paris
-  url: https://en.wikipedia.org/wiki/Paris
-- name: Pastries
-  url: https://en.wikipedia.org/wiki/Pastry
-- name: People
-  url: https://en.wikipedia.org/wiki/People
+- name: Psychology
+  url: https://en.wikipedia.org/wiki/Psychology
+- name: Philosophy
+  url: https://en.wikipedia.org/wiki/Philosophy
+- name: Jazz
+  url: https://en.wikipedia.org/wiki/Jazz
 ---
 
 ** index doesn't contain a body, just front matter above.

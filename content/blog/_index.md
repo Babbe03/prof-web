@@ -14,15 +14,12 @@ layout: list-sidebar # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: A Sidebar for Your 
+  title: The theory behind the 5 areas 
   description: |
-    This is a fully featured blog that supports categories,
-    tags, series, and pagination. Even this sidebar offers 
-    a ton of customizations.
+    Here you will find the 5 areas with quick definitions, by pressing on the title you will be sent to a more detailed section. Have fun reading!
     
-    Check out the _index.md file in the /blog folder 
-    to edit this content. 
-  author: "The R Markdown Team @RStudio"
+    
+  author: "Abbe Knutsson"
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
   categories_link: true

@@ -127,13 +127,13 @@ enableEmoji = true
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Blog"
-    title = "Blog"
+    name = "Theory"
+    title = "Theory"
     url = "/blog/"
     weight = 2
   [[menu.header]]
-    name = "Projects"
-    title = "Project Portfolio"
+    name = "Application"
+    title = "Application"
     url = "/project/"
     weight = 3
   [[menu.header]]

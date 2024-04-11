@@ -3,10 +3,10 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my  is Hugo Apéro. Nice to meet you.
+  Hi, my name is Abbe Knutsson. It is great to have you.
 ---
 
 <!-- this is a subheadline -->
-I'm a Hugo theme you'll want to hang out with. :fr: 
+I am the author of this website, and a Swede who is trying to survive the Nashville heat. :sweden: :us:
 
-The page you are reading is based on a markdown file- look in `content/about/` to edit. There, look inside the `header`, `main`, and `sidebar` folders to get started building your own "about" page.
+What you are reading right now is my final project for my Educational Psychology class, PSY-PC 2600, at Vanderbilt University taught by Professor Leigh Scheer. 
