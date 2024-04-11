@@ -31,6 +31,11 @@ Thirdly, using student-centered pedagogical techniques leads to less reported in
 
 
 
+## 2. Attention is not one thing 
+
+
+## 3. Attention is not due to a lack of interest
+
 
 Wherever you end up wanting to show your social icons, you'll need to start by setting up the links in your site `config.toml` file. Open that up and scroll down to the `[[params.social]]` section. The start of it looks like this:
 

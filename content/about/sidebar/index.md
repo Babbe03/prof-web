@@ -11,7 +11,7 @@ link_list:
   url: https://en.wikipedia.org/wiki/Psychology
 - name: Philosophy
   url: https://en.wikipedia.org/wiki/Philosophy
-- name: Dawn <3
+- name: Dawn
   url: https://en.wikipedia.org/wiki/Dawn
 
   

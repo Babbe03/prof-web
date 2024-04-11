@@ -9,9 +9,16 @@
     <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:4321/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Attention</title>
+      <link>//localhost:4321/categories/attention/</link>
+      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/categories/attention/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Theme Features</title>
       <link>//localhost:4321/categories/theme-features/</link>
-      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/categories/theme-features/</guid>
       <description></description>
     </item>
