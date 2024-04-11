@@ -3,7 +3,7 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Abbe Knutsson. It is great to have you.
+  Hi, my name is Abbe Knutsson. It's so great to have you.
 ---
 
 <!-- this is a subheadline -->

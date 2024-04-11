@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Attention on Professor</title>
+    <link>//localhost:4321/categories/attention/</link>
+    <description>Recent content in Attention on Professor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:4321/categories/attention/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Attention</title>
+      <link>//localhost:4321/blog/social/</link>
+      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/blog/social/</guid>
+      <description>Attention is such a fundamental concept that it seems pointless to discuss what it actually means. However, any fundamental concept always carries with it misconceptions perpetuated through tradition. Thereby, it seems most fitting to start with these misconceptions, and the implications of their dispelling.&#xA;1. Attention is not continuous. An experiment done by Bunce et al. in the chemistry department at the Catholic University of America was designed to answer three questions regarding student attention:</description>
+    </item>
+  </channel>
+</rss>

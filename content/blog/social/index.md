@@ -1,27 +1,36 @@
 ---
-title: "Set up your "
-subtitle: "Social icons may appear on several pages throughout your site. Learn how to set them up, and control where they show up."
-excerpt: "This theme offers built-in Font Awesome icons for organizing your collection of social accounts and their links. Use icons to help visitors find you wherever you want to be found, and learn how to show or hide them in your site's header, footer, homepage, about page, and contact form."
+title: "Attention"
+subtitle: "Gaining and maintaining the attention of your students"
+excerpt: "Attention is the foundation of learning. Without ensuring attention from your students there can be no learning; no acquisition of knowledge. Attention is mainly determined by the framing of the information, rather than the information itself. Through the use of novelty, intensity, and movement/motion your students will pay and maintain their attention on you."
 date: 2021-01-28
-author: "Alison Hill & Eric Anderson"
+author: ""
 draft: false
 # layout options: single, single-sidebar
 layout: single
 categories:
-- Theme Features
+- Attention
 ---
 
-There are five places where you can choose to show social icons. Here is the tl;dr:
+Attention is such a fundamental concept that it seems pointless to discuss what it actually means. However, any fundamental concept always carries with it misconceptions perpetuated through tradition. Thereby, it seems most fitting to start with these misconceptions, and the implications of their dispelling. 
 
-+ site header (set in `config.toml`), 
-+ site footer (set in `config.toml`), 
-+ [homepage](/) (set in `content/_index.md`),
-+ [about page](/about) in the sidebar (set in `content/about/sidebar/index.md`), and
-+ [contact page](/contact) (set in `content/form/contact.md`). 
+## 1. Attention is not continuous.
 
-Read on to learn how to set up your social icons, and how to show/hide them.
+An experiment done by Bunce et al. in the chemistry department at the Catholic University of America was designed to answer three questions regarding student attention: 
 
-## Configure social 
+    1. How often do students report attention lapses during a 50-min lecture,
+    2. how long are these attention lapses,
+    3. and what possible pedagogical influences are there on the lapses?
+
+For six weeks, students were asked to use a clicker anytime they noticed themselves being distracted and inattentive. The clicker had three buttons signifying varying lengths of time they were “gone” for 1 minute or less, 2-3 minutes, or 5 minutes and more. The clicker data was collected every 30 seconds throughout the lectures, allowing Bunce et al. to see when the lapses occurred for the students. So what did they find?
+
+Firstly, attention is not kept for the entire 50 minutes. No student using the clicker was able to hold attention for even 10-20 minutes, let alone the entire 50 minutes. Some students even reported lapses in attention within the first 30 seconds of the lecture. 
+
+Secondly, attention is a cyclical process. Students would be engaged in a state of attention, then switch to inattention, and then back to attention. These cycles occurred consistently throughout the lecture, but the length varied over the class duration. The time between inattentive periods would become shorter and shorter the more time that passed. Students would become less capable of holding their attention later in the class, being forced to abandon their longer periods of attention and instead be in a state of almost constant jumping between attention and inattention. 
+
+Thirdly, using student-centered pedagogical techniques leads to less reported inattention and increases attention after. When teachers performed demonstrations or assigned questions for the students to answer with clickers, fewer students would indicate lapses of attention. Furthermore, fewer students reported lapses in attention for the lecture section following demonstrations, indicating that students were more focused on the student-centered techniques and were able to maintain that increased attention. 
+
+
+
 
 Wherever you end up wanting to show your social icons, you'll need to start by setting up the links in your site `config.toml` file. Open that up and scroll down to the `[[params.social]]` section. The start of it looks like this:
 

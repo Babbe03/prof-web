@@ -12,6 +12,8 @@ intro: |
   
   This project covers 5 areas I deemed essential to successful professorship. I present the theory behind these areas, and the application of them, so that you can leave with a greater understanding and a richer practice. I have also included quotes from professors and students on what makes a good professor. I hope all of this provides you with sufficient insight into how to be a professor. 
   
+  All information is taken from class notes, unless otherwise specified. A page with references can be found in the headers, and will include other resources of interest to the individual with ardor.
+  
 show_outro: true
 outro: |
   <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
