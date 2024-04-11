@@ -14,7 +14,7 @@ layout: list-sidebar # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: A Sidebar for Your Thoughts
+  title: A Sidebar for Your 
   description: |
     This is a fully featured blog that supports categories,
     tags, series, and pagination. Even this sidebar offers 
