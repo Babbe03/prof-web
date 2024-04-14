@@ -11,7 +11,7 @@ categories:
 - Attention
 ---
 
-Attention is such a fundamental concept that it seems pointless to discuss what it actually means. However, any fundamental concept always carries with it misconceptions perpetuated through tradition. Thereby, it seems most fitting to start with these misconceptions, and the implications of their dispelling. 
+Attention is such a fundamental concept that it seems pointless to discuss what it actually means. However, any fundamental concept always carries with it misconceptions perpetuated through tradition. Thereby, it seems most fitting to start with these misconceptions, and then move on to the implications of their dispelling. 
 
 ## 1. Attention is not continuous.
 
@@ -33,80 +33,34 @@ Thirdly, using student-centered pedagogical techniques leads to less reported in
 
 ## 2. Attention is not one thing 
 
+We often conceptualize attention as one thing, imagining the attentive student who maintains eye contact with you, nods their head in agreement, and laughs at your very, very funny jokes. However, the student who is avoiding your gaze, seemingly distant and lost, might also be attentive; just in a different way. 
+
+Keller et al. (2020) discuss the existence of a four-quadrant style of attention. On one axis you have whether attention is On-topic or Off-topic, and on the other whether attention is Internal or External. Attention then, according to Keller et al. (2020), can take the form of four different types based on the two axis. 
+
+On-topic and Off-topic seems intuitive, it is whether the attention is focused on something relating to the class. However, one important thing to note is that while a student may not be focusing on your direct words, they might still be on-topic in their attention. The student may be lost in thought about examples of the material, maybe they are trying to connect the information to previous knowledge, or maybe they are hyperfocusing on the powerpoint. All of these things are on-topic, but they might not be what you are hoping for. 
+
+The key distinction between our usual conception of affection, and the actual thing according to Keller et al. (2020) is that attention is either internal or external. Internal attention is when the student is focused on their own thoughts and connections; focused on their own internal environment. External attention is focus on stimuli from the external world, such as the professors words, the powerpoint slides, demonstrations, etc. 
+
+Keller et al. (2020) explain that a teacher must be able to allow for shifts between internal and external attention. Students often need internal attention to form answers, make connections, and gain a deeper understanding for the material. But if they are not given time for internal attention, then they will be stuck in a state of unwilling external attention from which they are more likely to be distracted and forego their . 
+
+Keller et al. (2020) conclude by noting that attention shifts are a natural process of human focus: we cannot focus on one external thing without either moving off-topic or going internal, and we cannot focus on one internal thing without either moving off-topic or going external. Therefore, when structuring your lectures it is pivotal to note that there needs to be an accommodation for these shifts, allowing students to internally reflect on what has been said, as well as giving them external material. 
+
 
 ## 3. Attention is not due to a lack of interest
 
+Hopefully, through reading the above points, you can conclude yourself that a lack of attention is more a human condition than a personal deficit. It becomes very easy to think that if a student wanted to pay attention, they would. But this idealistic approach lacks the dimensions which make up human emotion and depth. I am sure there have been moments in your own life where, despite your ire, you were wrought down by other things, unable to pay attention. Maybe you slept poorly, maybe you were in an argument with your partner, maybe you felt lonely, maybe it just wasn't your day. These reasons bring all of us down occasionaly. Therefore, give your student the same lenience that you would want in those situations.
 
-Wherever you end up wanting to show your social icons, you'll need to start by setting up the links in your site `config.toml` file. Open that up and scroll down to the `[[params.social]]` section. The start of it looks like this:
+Most students want to pay attention. This does not mean you aren't going to encounter students who fundamentally do not care about your class, you most definitely will. But they are not the only ones who will have attention deficits; everyone will occasionally. Even the most motivated student.  
 
-```toml
-[params]
-  <!--snip snip-->
+## What works to keep attention?
+
+Beyond adjusting for internal and external focus, there are things that people pay more attention to. 
   
-  # Social icons may appear on your site header, footer, and other pages
-  # Add as many icons as you like below
-  # Icon pack "fab" includes brand icons, see: https://fontawesome.com/icons?d=gallery&s=brands&m=free
-  # Icon pack "fas" includes solid icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
-  # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
-  [[params.social]]
-      icon      = "github" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://github.com/apreshill/apero"
-  [[params.social]] <!--lather, rinse, repeat-->
-```
-
-For each link, you'll need to start a new portion that begins with `[[params.social]]`. Then, pick your `icon` and `icon_pack` from the [Font Awesome](https://fontawesome.com/) free icon library:
-
-+ Icon pack "fab" includes [brand icons](https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-
-+ Icon pack "fas" includes [solid icons](https://fontawesome.com/icons?d=gallery&s=solid&m=free)
-
-+ Icon pack "far" includes [regular icons](https://fontawesome.com/icons?d=gallery&s=regular&m=free)
-
-Finally, add the `url` that you would like users to go to when they click on that icon. All external links (i.e., those that start with `http`) will open in a new tab (that is, `target="_blank"`); relative links to pages within the site will open in the same window.
-
-Now you should be all set to show/hide your social icons. Each of these will pull the social icons and urls from the settings you just created in your site configuration file.
-
-## Show social in site header and footer
-
-Let's start with the header and footer, as those are site-wide. Open up your site `config.toml` file again and scroll down to the `[params]` section (it is actually :up: from where you configured these icons):
-
-```toml
-[params]
-  <!--snip snip-->
+  1. Novelty
+  2. Intensity
+  3. Movement/Motion 
   
-  # show/hide social icons in site header & footer
-  # configure social icons and links below in [[params.social]]
-  socialInHeader = false
-  socialInFooter = true
-```
+Novelty means an impression and sensation that is new. When something is new we are more likely to be interested in it. Intensity is extreme and, well, intense sensory information. Being faced with something big, bright, loud, and extreme makes us pay attention to it. Movement means that things that are moving around grab us attention, while motion means that when the learner themselves move they are more likely to be able to retain their attention.
 
-That was easy!
+These three areas are best understood through practice. Thereby, to learn more about them, got the Applications (LINK?) page 
 
-## Show social in homepage
-
-Open up `content/_index.md`. That file's YAML controls what you see on the homepage. Set `show_social_links` like so:
-
-```yaml
-show_social_links: true # specify social accounts in site config
-```
-
-If you set this to `true` to show the icons on the homepage, your social icons in the footer will not show up even when you set `socialInFooter = true`, so as not to litter your site with too many icons.
-
-## Show social in about page sidebar
-
-Open up `content/about/sidebar/index.md`. That file's YAML controls what you see in the sidebar on the about page. Set `show_social_links` like so:
-
-```yaml
-show_social_links: true # specify social accounts in site config
-```
-
-## Show social in contact page
-
-You may use the YAML for your contact page (located in `content/form/contact.md`):
-
-```yaml
----
-show_social_links: true # specify social accounts in site config
----
-```
