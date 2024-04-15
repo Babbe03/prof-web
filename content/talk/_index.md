@@ -1,7 +1,7 @@
 ---
-title: Talks that Last
+title: Application of Theory
 description: |
-  This is a list for your talks, workshops, or other events with a time, date, and place.
+  Each section starts with a list of specific techniques, and ends with explaining the reasoning behind the choices. 
 author: "The R Markdown Team @RStudio"
 show_post_thumbnail: true
 show_author_byline: false
@@ -21,14 +21,14 @@ sidebar:
     
     Check out the _index.md file in the /talk folder 
     to edit this content. 
-  author: "The R Markdown Team @RStudio"
+  author: "Abbe Knutsson"
   text_link_label: Subscribe via RSS
   text_link_url: /talk/index.xml
   show_sidebar_adunit: false # show ad container
 
 # set up common front matter for all pages inside blog/
 cascade:
-  author: "The R Markdown Team @RStudio"
+  author: "Abbe Knutsson"
   show_author_byline: true
   show_post_date: false
   show_post_time: false

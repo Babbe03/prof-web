@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Attention on Professor</title>
-    <link>//localhost:4321/categories/attention/</link>
+    <link>//localhost:4594/categories/attention/</link>
     <description>Recent content in Attention on Professor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/categories/attention/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:4594/categories/attention/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Attention</title>
-      <link>//localhost:4321/blog/social/</link>
+      <title>What Is Attention?</title>
+      <link>//localhost:4594/blog/social/</link>
       <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/blog/social/</guid>
+      <guid>//localhost:4594/blog/social/</guid>
       <description>Attention is such a fundamental concept that it seems pointless to discuss what it actually means. However, any fundamental concept always carries with it misconceptions perpetuated through tradition. Thereby, it seems most fitting to start with these misconceptions, and then move on to the implications of their dispelling.&#xA;1. Attention is not continuous. An experiment done by Bunce et al. in the chemistry department at the Catholic University of America was designed to answer three questions regarding student attention:</description>
+    </item>
+    <item>
+      <title>How to Gain and Maintain Attention</title>
+      <link>//localhost:4594/talk/campfire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4594/talk/campfire/</guid>
+      <description>Based on the Theory, there are four things to center our applications around:&#xA;Allow for Internal/External shifts Novelty Intensity Movement/Motion The application techniques will not be given in order, but rather explained in detail so that you can use them directly, then at the end will be a more theoretical explanation.&#xA;Chunk your material </description>
     </item>
   </channel>
 </rss>

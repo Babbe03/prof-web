@@ -1,5 +1,5 @@
 ---
-title: "Attention"
+title: "What Is Attention?"
 subtitle: "Gaining and maintaining the attention of your students"
 excerpt: "Attention is the foundation of learning. Without ensuring attention from your students there can be no learning; no acquisition of knowledge. Attention is mainly determined by the framing of the information, rather than the information itself. Through the use of novelty, intensity, and movement/motion your students will pay and maintain their attention on you."
 date: 2021-01-28
