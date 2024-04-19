@@ -16,6 +16,13 @@
       <description></description>
     </item>
     <item>
+      <title>Motivation</title>
+      <link>//localhost:4321/categories/motivation/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/categories/motivation/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Theme Features</title>
       <link>//localhost:4321/categories/theme-features/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>

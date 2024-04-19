@@ -53,19 +53,22 @@
     <loc>//localhost:4321/blog/social/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:4321/categories/motivation/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:4321/tags/style/</loc>
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:4321/blog/color-themes/</loc>
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/blog/fonts/</loc>
-    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:4321/tags/</loc>
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:4321/categories/theme-features/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/blog/fonts/</loc>
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:4321/collection/</loc>
