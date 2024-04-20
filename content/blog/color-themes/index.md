@@ -57,6 +57,6 @@ When a professor is in the process of assessing student's knowledge and learning
 
 ## Where does this leave us?
 
-
+Feedback is a complex interwoven series of traits that professors need to always be able to administer. The difficult part of feedback is also its most valuable: feedback impacts a lot of aspects that in turn affect academic outcome. It is crucial for a professor to be able to administer feedback, but also accept it. This theoretical discussion should provide insight into what to consider, and for practical application of these ideas, go to the *Application* section. 
 
 

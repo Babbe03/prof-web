@@ -16,17 +16,17 @@
       <description></description>
     </item>
     <item>
+      <title>Feedback</title>
+      <link>//localhost:4321/categories/feedback/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/categories/feedback/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Motivation</title>
       <link>//localhost:4321/categories/motivation/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/categories/motivation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Theme Features</title>
-      <link>//localhost:4321/categories/theme-features/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/categories/theme-features/</guid>
       <description></description>
     </item>
     <item>
@@ -41,6 +41,13 @@
       <link>//localhost:4321/categories/r/</link>
       <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/categories/r/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Theme Features</title>
+      <link>//localhost:4321/categories/theme-features/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/categories/theme-features/</guid>
       <description></description>
     </item>
     <item>

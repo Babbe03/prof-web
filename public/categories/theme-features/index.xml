@@ -6,7 +6,7 @@
     <description>Recent content in Theme Features on Professor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:4321/categories/theme-features/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A first post</title>
@@ -28,13 +28,6 @@
       <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/blog/spoonful-series/03-spoonful/</guid>
       <description>Hi, I&#39;m the here-bot cat!&#xD;Use me to find your way in your website.&#xA;Here I am:&#xD;content/blog\spoonful-series\03-spoonful\index.markdown&#xD;Here is my R Markdown source file:&#xD;blog\spoonful-series\03-spoonful\index.Rmarkdown&#xD;You&#39;ll want to edit this file, then re-knit to see the changes take effect in your site preview.&#xA;To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}&#xA;My content section is:&#xD;blog&#xD;My layout is:&#xD;single-series&#xD;Images in this page bundle:&#xD;/blog/spoonful-series/03-spoonful/featured-photo.</description>
-    </item>
-    <item>
-      <title>Style your site colors</title>
-      <link>//localhost:4321/blog/color-themes/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/blog/color-themes/</guid>
-      <description>You can totally customize your site&amp;rsquo;s theme colors within minutes of creating a new site. Read on to find out how, and decide which of the three options meets your needs.&#xA;Use a color theme&#xD;Hugo Apéro includes 8 built-in color themes that work &amp;ldquo;out of the box.&amp;rdquo; This means you can use a color theme to quickly customize the look of your site without needing to write any CSS. You can select the color theme in your config.</description>
     </item>
     <item>
       <title>Using panelsets</title>

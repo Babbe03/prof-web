@@ -114,13 +114,6 @@
       <description>Courtesy of panelset.js by Garrick Aden-Buie, from his xaringanExtra package: https://pkg.garrickadenbuie.com/xaringanExtra/#/panelset&#xA;For example, this panelset:&#xA;Hello! &amp;#x1f44b;&#xD;hello&#xA;Goodbye &amp;#x1f4a8;&#xD;goodbye&#xA;Was created by combining this theme&amp;rsquo;s panelset and panel shortcodes:&#xA;{{&amp;lt; panelset class=&amp;#34;greetings&amp;#34; &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Hello! :wave:&amp;#34; &amp;gt;}} hello {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Goodbye :dash:&amp;#34; &amp;gt;}} goodbye {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; /panelset &amp;gt;}} You could also revert to HTML as well. For example, this panelset:&#xA;Question&#xD;Which came first: the :chicken: or the :egg:?</description>
     </item>
     <item>
-      <title>A </title>
-      <link>//localhost:4321/talk/second-seedling/</link>
-      <pubDate>Fri, 01 Jan 2021 14:15:59 -0600</pubDate>
-      <guid>//localhost:4321/talk/second-seedling/</guid>
-      <description>&#xD;Allow for resubmission&#xD;</description>
-    </item>
-    <item>
       <title>An Rmarkdown post</title>
       <link>//localhost:4321/blog/rmarkdown/</link>
       <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
@@ -189,6 +182,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/about/sidebar/</guid>
       <description>** index doesn&amp;rsquo;t contain a body, just front matter above. See about/list.html in the layouts folder **</description>
+    </item>
+    <item>
+      <title>Administer Good Feedback</title>
+      <link>//localhost:4321/talk/second-seedling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/talk/second-seedling/</guid>
+      <description>The discussion of application will be rooted in the discussion outlined under the Theory section, and specifically call back to the 7 aspects highlighted there.&#xA;The application techniques will be explained in detail so that you can use them directly, then at the end will be a more theoretical explanation.&#xA;Allow for resubmission&#xD;</description>
     </item>
     <item>
       <title>Contributors</title>
