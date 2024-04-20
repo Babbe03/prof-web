@@ -1,5 +1,5 @@
 ---
-title: "A seedling"
+title: "A "
 subtitle: "Testing"
 excerpt: "Yet another idea"
 date: 2021-01-01T14:15:59-06:00
