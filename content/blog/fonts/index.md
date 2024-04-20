@@ -1,9 +1,9 @@
 ---
-title: "What drives student Motivation?"
+title: "What Drives Student Motivation?"
 subtitle: "Understanding and being able to foster intrinsic motivation"
 excerpt: "Motivation is why we do what we do, and getting students to do anything requires them to be motivated. If you desire to get your students to do work, listen to you talk, and show up to class, you have to understand what drives and motivated them. Without that understanding you are left trying to forcibly drag a horse, when all it requires is a pat and a nudge."
 date: 2021-01-27
-author: "Abbe Knutsson"
+author: ""
 draft: false
 tags:
   - style
@@ -64,7 +64,7 @@ Ryan and Deci (2000) outline that in studies of infant motivation, there is a cl
 
 Our social bonds, and overarching social context, creates a feeling that secures our motivational foundation. Moreover, relatedness plays a key part in our process of internalization, which Ryan and Deci (2000) explain is our ability to adopt externally regulated behaviors as our own, given they are ego-syntonic. Internalization allows individuals to take external values and motivations and turn them into intrinsic values and motivations. It is through internalization some students turn the external motivation of academic status into an internally motivating value. Through relatedness, secure social bonds and context, the internalization process is facilitated.
 
-Therefore, the social context, not only the task itself, becomes vital to ensuring an intrinsic motivation. 
+Therefore, the social context, not only the task itself, becomes vital to ensuring an intrinsic motivation. This does not mean that the students must feel like they are best friends with every student in the classroom, just that they are relating to the class, and the social context they find themselves in.
 
 
 ## Cultural considerations 

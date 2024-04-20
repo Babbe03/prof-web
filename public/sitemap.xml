@@ -110,9 +110,6 @@
     <loc>//localhost:4321/blog/rmarkdown/</loc>
     <lastmod>2020-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/talk/seedling/</loc>
-    <lastmod>2020-01-13T14:15:59-06:00</lastmod>
-  </url><url>
     <loc>//localhost:4321/project/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
@@ -150,6 +147,8 @@
     <loc>//localhost:4321/about/</loc>
   </url><url>
     <loc>//localhost:4321/contributors/</loc>
+  </url><url>
+    <loc>//localhost:4321/talk/seedling/</loc>
   </url><url>
     <loc>//localhost:4321/talk/campfire/</loc>
   </url><url>

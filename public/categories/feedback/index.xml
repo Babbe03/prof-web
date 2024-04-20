@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feedback on Professor</title>
+    <link>//localhost:4321/categories/feedback/</link>
+    <description>Recent content in Feedback on Professor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:4321/categories/feedback/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Is Good Feedback?</title>
+      <link>//localhost:4321/blog/color-themes/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/blog/color-themes/</guid>
+      <description>Everyone reading this has both received and sent out a lot of feedback. Despite this, being able to formulate what is good feedback is still difficult. Is good feedback outcome-oriented, effort-based, unconditionally positive; should its purpose be to motivate, to increase academic outcome, to bring comfort? The difficult part of intuitvely getting a definition is that everything seems correct. Feedback should both focus on outcome and effort, it should be positve yet constructive, it should bring comfort while motivating, and ultimately it should ensure positive academic outcomes.</description>
+    </item>
+  </channel>
+</rss>

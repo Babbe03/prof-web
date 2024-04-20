@@ -35,11 +35,26 @@ Instead of giving specific questions, you can give themes. While it is tempting 
 
 Furthermore, if there is a spot in your curriculum where you are unsure of what to present, let the students choose. Professors are often inclined to not show any uncertain feelings, or any dilemmas. However, in a scenario where the professor must make a choice of what topic to cover for the students, it becomes fruitful to include the students into the choice. If they are given control over the material they are given, then the motivation will increase. They become an agent in the layout of their own education, and can choose what suits them best. 
 
-**Why this application?*
+*Why this application?*
 
 By having students choose, and giving them control, you give them a sense of autonomy that allows them to do work that is naturally aligned with their personal beliefs and interest. Furthermore, by giving them agency to structure and outline their own work they are given an increased sense of competency through a clear and known frame of how they should express their capabilities. 
 
-## 
+## Give Moments to Socialize
+
+While it is easy to get wrapped up in just teaching and teaching, not paying heed to the student's social scenario, it is pivotal to take any moment you can to allow students to feel connected in their environment. 
+
+From a assignment perspective, this can mean giving them group projects to allow the students to work with one another and gain social bonds through their work. The idea is then for the students to get closer to one another through their work, or at least find someone whom they can relate to and feel connected with. 
+
+Group project might not fit every classroom, in such a case peer-review becomes extremely useful. Peer-review gives students an opportunity to read and critique each others work, practicing associated skills, but also gives them someone who they can anchor to, both in terms of social context and in terms of competence. 
+
+During class it is important to both ask questions but also to get students' answers. Rhetorical questions are useful in terms of getting students to think. But, importantly, getting students to answer will allow you to get an understanding of their thoughts, and, crucially, allow other students to get an insight into what other students feel and think. Even if all students do not, and they will not, want to answer, those who do then become an anchoring point for the other students: allowing them to feel connected. The questions can both be asked in the larger setting, where students need to raise their hands and answer, but can also be asked an answered in small groups of the students choosing.
+
+*Why this application?*
+
+To create a feeling of relatedness the students need to feel socially connected and find an anchor point for a feeling of relating. By giving students a chance to talk to one another you give them opportunities to find their anchor point, to find some way of feeling connected to their social environment. Unfortunately, you cannot force students to create social bonds, but as a professor you need to at least provide ample opportunity for them to form, and cautiously assess the social progress.
+
+## x
+
 
 
 
