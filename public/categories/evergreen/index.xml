@@ -9,7 +9,7 @@
     <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:4321/categories/evergreen/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>An evergreen post</title>
+      <title></title>
       <link>//localhost:4321/blog/evergreen/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/blog/evergreen/</guid>

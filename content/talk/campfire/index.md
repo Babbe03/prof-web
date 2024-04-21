@@ -3,7 +3,7 @@ title: "How to Gain and Maintain Attention"
 subtitle: "Practical Application"
 excerpt: ""
 featured: true
-show_post_time: false
+#show_post_time: false
 draft: false
 # layout options: single, single-sidebar
 layout: single

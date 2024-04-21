@@ -13,7 +13,14 @@
       <link>//localhost:4321/blog/seedling/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/blog/seedling/</guid>
-      <description>Courtesy of panelset.js by Garrick Aden-Buie, from his xaringanExtra package: https://pkg.garrickadenbuie.com/xaringanExtra/#/panelset&#xA;For example, this panelset:&#xA;Hello! &amp;#x1f44b;&#xD;hello&#xA;Goodbye &amp;#x1f4a8;&#xD;goodbye&#xA;Was created by combining this theme&amp;rsquo;s panelset and panel shortcodes:&#xA;{{&amp;lt; panelset class=&amp;#34;greetings&amp;#34; &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Hello! :wave:&amp;#34; &amp;gt;}} hello {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Goodbye :dash:&amp;#34; &amp;gt;}} goodbye {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; /panelset &amp;gt;}} You could also revert to HTML as well. For example, this panelset:&#xA;Question&#xD;Which came first: the :chicken: or the :egg:?</description>
+      <description>Many of us have a teacher or professor whom we remember fondly. That educator did something that made us feel connected to them, and subsequently more engaged and interested in the material, as well as feeling better. This is the impact of a student-teacher emotional bond. Yet, many of us do not fully understand the impact these bonds have, what they actually do, and then how to build them. This section will cover the benefits and mechanisms of a quality student-teacher bond, and the Application section will delve into how to build it.</description>
+    </item>
+    <item>
+      <title>Create an Emotional Bond</title>
+      <link>//localhost:4321/talk/bond/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/talk/bond/</guid>
+      <description>adasfasfsdfd</description>
     </item>
   </channel>
 </rss>

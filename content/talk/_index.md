@@ -5,8 +5,8 @@ description: |
 author: "The R Markdown Team @RStudio"
 show_post_thumbnail: true
 show_author_byline: false
-show_post_date: false
-show_post_time: false
+#show_post_date: false
+#show_post_time: false
 show_button_links: true
 # for listing page layout
 layout: list # list, list-sidebar

@@ -98,6 +98,9 @@
     <loc>//localhost:4321/categories/theme-features/</loc>
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:4321/categories/emotional-bond/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:4321/blog/seedling/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
@@ -145,6 +148,8 @@
     <loc>//localhost:4321/talk/</loc>
   </url><url>
     <loc>//localhost:4321/contributors/</loc>
+  </url><url>
+    <loc>//localhost:4321/talk/bond/</loc>
   </url><url>
     <loc>//localhost:4321/talk/seedling/</loc>
   </url><url>

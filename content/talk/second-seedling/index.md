@@ -2,8 +2,8 @@
 title: "Administer Good Feedback"
 subtitle: "Practical Examples and Guidelines"
 excerpt: ""
-date: 
-date_end: ""
+#date: 
+#date_end: ""
 author: "Abbe Knutsson"
 location: ""
 draft: false

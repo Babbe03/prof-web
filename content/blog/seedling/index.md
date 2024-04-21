@@ -34,9 +34,25 @@ Affective conflict is the opposite of Affective commitment, here the question be
 Satisfaction is a measure of the student's feelings of content with the performance of the educator. The question being asked here is if the student is happy with how the educator has performed.
 
 
-## Impact on positive emotions
+## Impact on student emotions
 
-## Impact on negative emotions 
+What Snijders et al (2020) found was that students with a higher perceived student-teacher bond would have higher rates of student engagement and student loyalty. 
+
+By student engagement Snijderes et al (2020) mean absorption, dedication, and vigor; how much the student is engrossed in the material, committed to studying and proud of it, and zealous about studying the material respectively. When the students had a higher quality bond with their faculty, their dedication and vigor was significantly increased, leading to the students being more committed to studying and had an increased positive attitude to studying the material. Furthermore, dedication was strongly correlated with affective commitment, indicating that the act of enjoying your teacher's presence cna lead to increased willingness to study. 
+
+Furthermore, the increase of student engagement and a high-quality bond between student and faculty, lead to an increase in student loyalty, which Snijders et al (2020) describe as student's feelings of connection to the institution and faculty, and how their behaviors relate to it. The findings indicate that when students are more emotionally connected to their facultym they are more likely to feel connected to the university as a whole, and express behaviors that reflect that connection. These behaviors could be recommending courses and professors, keeping in touch with faculty, continuing the study of the taught subject, and express satisfaction about university and course choices. 
+
+Another study by Goetz et al (2021) found significant statistical relationships with a quality student-teacher bond and positive student emotions, such as enjoyment and pride. Furthermore, they found a negative relationship with negative emotions such as boredom, shame, anger, and anxiety. 
+
+These findings suggest that for a student, a quality student-teacher bond becomes a facilitator of positive, encouraging emotions, while staving off and protecting against negative emotions. When considering a student's emotional range this becomes quite significant; students constantly deal with suppressing anxiety, boredom, frustration, and anger, while trying to get themselves motivated and find enjoyment in the class. Because of this, the importance of the emotional bond cannot be understated.
 
 ## Each relationship has different needs
+
+In their paper, Snijders et al(2020) explain that while student-teacher bonds are of vital importance, they are also highly varied. They continue by saying that what each student needs varies, and the demands and contributions of the relationship has to then vary also. The implications of this variability means that professors cannot expect all relationships to be built the same and to progress the same. While some students might build a strong emotional bond immediately with the professor, others might not. It then becomes imperative to understand what the students need in order to progress the bond, and to not assume that all students will react the same.
+
+## Where does this leave us?
+
+In conclusion, student-teacher bonds have a strong impact on student emotions and thereby academic outcomes. The emotional bond is able to create a larger feeling of positive emotions, while protecting the student from negative emotions. However, not all bonds are created the same, and the variability in student's desires and expectations provides a unique problem to the construction of these bonds. For practical ways of building and applying these bonds, go to the *Application* section. 
+
+
 
