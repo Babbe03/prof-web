@@ -53,7 +53,6 @@ During class it is important to both ask questions but also to get students' ans
 
 To create a feeling of relatedness the students need to feel socially connected and find an anchor point for a feeling of relating. By giving students a chance to talk to one another you give them opportunities to find their anchor point, to find some way of feeling connected to their social environment. Unfortunately, you cannot force students to create social bonds, but as a professor you need to at least provide ample opportunity for them to form, and cautiously assess the social progress.
 
-## x
 
 
 

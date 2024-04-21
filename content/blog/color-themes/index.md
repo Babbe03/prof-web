@@ -13,7 +13,7 @@ categories:
 layout: single
 ---
 
-Everyone reading this has both received and sent out a lot of feedback. Despite this, being able to formulate what is good feedback is still difficult. Is good feedback outcome-oriented, effort-based, unconditionally positive; should its purpose be to motivate, to increase academic outcome, to bring comfort? The difficult part of intuitvely getting a definition is that everything seems correct. Feedback should both focus on outcome and effort, it should be positve yet constructive, it should bring comfort while motivating, and ultimately it should ensure positive academic outcomes. However, that does not give us a strong idea of how to approach it. Therefore, we will start discussing what good feedback should be, and some myths around it. 
+Everyone reading this has both received and sent out a lot of feedback. Despite this, being able to formulate what is good feedback is still difficult. Is good feedback outcome-oriented, effort-based, unconditionally positive; should its purpose be to motivate, to increase academic outcome, to bring comfort? The difficult part of intuitively getting a definition is that everything seems correct. Feedback should both focus on outcome and effort, it should be positive yet constructive, it should bring comfort while motivating, and ultimately it should ensure positive academic outcomes. However, that does not give us a strong idea of how to approach it. Therefore, we will start discussing what good feedback should be, and some myths around it. 
 
 ## Students already give themselves Feedback
 

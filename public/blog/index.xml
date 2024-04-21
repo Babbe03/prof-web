@@ -27,21 +27,21 @@
       <link>//localhost:4321/blog/color-themes/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/blog/color-themes/</guid>
-      <description>Everyone reading this has both received and sent out a lot of feedback. Despite this, being able to formulate what is good feedback is still difficult. Is good feedback outcome-oriented, effort-based, unconditionally positive; should its purpose be to motivate, to increase academic outcome, to bring comfort? The difficult part of intuitvely getting a definition is that everything seems correct. Feedback should both focus on outcome and effort, it should be positve yet constructive, it should bring comfort while motivating, and ultimately it should ensure positive academic outcomes.</description>
+      <description>Everyone reading this has both received and sent out a lot of feedback. Despite this, being able to formulate what is good feedback is still difficult. Is good feedback outcome-oriented, effort-based, unconditionally positive; should its purpose be to motivate, to increase academic outcome, to bring comfort? The difficult part of intuitively getting a definition is that everything seems correct. Feedback should both focus on outcome and effort, it should be positive yet constructive, it should bring comfort while motivating, and ultimately it should ensure positive academic outcomes.</description>
     </item>
     <item>
-      <title>An evergreen post</title>
+      <title></title>
       <link>//localhost:4321/blog/evergreen/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/blog/evergreen/</guid>
       <description>Rendering mathematical equations&#xD;Examples from the mathjax demo. But they work with katex as well.&#xA;Rmarkdown&#xD;In .Rmarkdown documents, you can use either&#xA;$a \ne 0$ to get inline math: \(a \ne 0\). There is no conflict with using dollar symbols regularly, because knitr automatically escapes freestanding dollar symbols.&#xA;And you can use&#xA;$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$ to get a math paragraph:&#xA;$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.</description>
     </item>
     <item>
-      <title>Using panelsets</title>
+      <title>How to build a student-teacher bond</title>
       <link>//localhost:4321/blog/seedling/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/blog/seedling/</guid>
-      <description>Courtesy of panelset.js by Garrick Aden-Buie, from his xaringanExtra package: https://pkg.garrickadenbuie.com/xaringanExtra/#/panelset&#xA;For example, this panelset:&#xA;Hello! &amp;#x1f44b;&#xD;hello&#xA;Goodbye &amp;#x1f4a8;&#xD;goodbye&#xA;Was created by combining this theme&amp;rsquo;s panelset and panel shortcodes:&#xA;{{&amp;lt; panelset class=&amp;#34;greetings&amp;#34; &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Hello! :wave:&amp;#34; &amp;gt;}} hello {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Goodbye :dash:&amp;#34; &amp;gt;}} goodbye {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; /panelset &amp;gt;}} You could also revert to HTML as well. For example, this panelset:&#xA;Question&#xD;Which came first: the :chicken: or the :egg:?</description>
+      <description>Many of us have a teacher or professor whom we remember fondly. That educator did something that made us feel connected to them, and subsequently more engaged and interested in the material, as well as feeling better. This is the impact of a student-teacher emotional bond. Yet, many of us do not fully understand the impact these bonds have, what they actually do, and then how to build them. This section will cover the benefits and mechanisms of a quality student-teacher bond, and the Application section will delve into how to build it.</description>
     </item>
     <item>
       <title>An Rmarkdown post</title>

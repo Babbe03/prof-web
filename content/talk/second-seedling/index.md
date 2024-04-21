@@ -49,9 +49,19 @@ By asking the students to provide their own feedback they get trained in self-re
 
 ## Focus on dicrepancy 
 
+When providing feedback, while it is tempting to focus on outcomes based off of grading guidelines, all feedback given should be rooted in the discrepancy between the student's desired outcome and actual outcome. If the student only reaches a certain grade below what you might want, but the student is happy with it, then it is the professor's job not to create feedback that outlines the project as unsuccessful. Feedback should always include ways of improving, as well as what went well, but if the desired outcome is aligned with the desired outcome, then that should be recognized and applauded. In order to do this it is important to make the feedback structure a dialogue, where the student can explain how they feel about the performance and are able to respond to your feedback. Once this dialogue is taking shape, if the student's desired outcomes mirrors their actual ones, that should be recognized and praised by the professor. If the outcomes are not aligned, the professor should ask the student what they think caused the discrepancy and then the professor should give their ideas and tips for how to close the gap. 
 
+*Why this application?*
 
-## Give multiple chances
+It is easy for feedback to become about reaching certain milestones. Yet, the professor is never able to decide which milestone is appropriate or not, it is always up to the student. Therefore, it is important to create a dialogue where the student can express their feelings of content or discontent about the performance. Then the professor is able to work with the student on closing the gap through collaborative feedback. This helps the student learn to self-regulate, identify problematic behaviors, and to get more insight. 
+
+## Reflect on the feedback you give 
+
+When administering feedback to students, look out for any patterns or trends within the feedback given. Any trend might be due to a lack of comprehensive and understandable teaching. A lack of understanding in a specific area, a question most students got wrong, a part of the project significantly weaker than other areas, might all point to a lapse in the teaching. To do this well, it is important to both understand your own feedback, but to also get students input on the feedback given. If they are expressing that certain ideas in class seemed vague and unsure then that points to a discrepancy in teaching and expectations. 
+
+*Why this application?*
+
+Feedback goes both ways; when students fail at something it is also a reflection on the teaching given. By absorbing the feedback given to students, the professor can ensure that their teaching imnproves, but also gives students a better way of understanding the professor, the feedback given, and allows them to be undesrtood by the professor, alleviating frustrations. 
 
 
 
