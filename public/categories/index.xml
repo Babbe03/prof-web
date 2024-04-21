@@ -51,13 +51,6 @@
       <description></description>
     </item>
     <item>
-      <title>Meetup</title>
-      <link>//localhost:4321/categories/meetup/</link>
-      <pubDate>Fri, 01 Jan 2021 14:15:59 -0600</pubDate>
-      <guid>//localhost:4321/categories/meetup/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Package</title>
       <link>//localhost:4321/categories/package/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
