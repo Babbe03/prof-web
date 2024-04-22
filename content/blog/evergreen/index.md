@@ -3,7 +3,7 @@ title: "What Creates Long-term Retention?"
 subtitle: "Understanding the core tenets of long-term retention"
 excerpt: "The goal of teaching is to create an acquisition of knowledge in students. Yet, many professors repeat the same tactics without knowing their efficacy. For long-term retention students need variability, separation, and strategies. Without understanding what long-term retention is built off of, a professor can never teach properly."
 #date: 2021-01-20
-author: "Alison Hill"
+author: ""
 draft: false
 # layout options: single, single-sidebar
 layout: single

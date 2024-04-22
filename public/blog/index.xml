@@ -30,39 +30,18 @@
       <description>Everyone reading this has both received and sent out a lot of feedback. Despite this, being able to formulate what is good feedback is still difficult. Is good feedback outcome-oriented, effort-based, unconditionally positive; should its purpose be to motivate, to increase academic outcome, to bring comfort? The difficult part of intuitively getting a definition is that everything seems correct. Feedback should both focus on outcome and effort, it should be positive yet constructive, it should bring comfort while motivating, and ultimately it should ensure positive academic outcomes.</description>
     </item>
     <item>
-      <title>What is a student-teacher bond</title>
-      <link>//localhost:4321/blog/seedling/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/blog/seedling/</guid>
-      <description>Many of us have a teacher or professor whom we remember fondly. That educator did something that made us feel connected to them, and subsequently more engaged and interested in the material, as well as feeling better. This is the impact of a student-teacher emotional bond. Yet, many of us do not fully understand the impact these bonds have, what they actually do, and then how to build them. This section will cover the benefits and mechanisms of a quality student-teacher bond, and the Application section will delve into how to build it.</description>
-    </item>
-    <item>
-      <title>An Rmarkdown post</title>
-      <link>//localhost:4321/blog/rmarkdown/</link>
-      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/blog/rmarkdown/</guid>
-      <description> Air quality with(airquality, boxplot(Temp ~ Month)) with(airquality, plot(Ozone ~ Temp)) mlev &amp;lt;- levels(with(airquality, as.factor(Month))) with(airquality, plot(Ozone ~ Temp, pch = as.numeric(mlev), col = mlev)) </description>
-    </item>
-    <item>
-      <title>CSS Grid Scaffold</title>
-      <link>//localhost:4321/blog/css-grid-scaffold/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/blog/css-grid-scaffold/</guid>
-      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.” — Chris House, A Complete Guide to CSS Grid Layout 1&#xA;Overview Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips.</description>
-    </item>
-    <item>
-      <title>Built-in Contact Form</title>
-      <link>//localhost:4321/blog/built-in-contact-form/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/blog/built-in-contact-form/</guid>
-      <description>Formspree makes it easy to receive submissions from HTML forms on your static website. Functional Form This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used. Please use your actual email address.</description>
-    </item>
-    <item>
       <title>What Creates Long-term Retention?</title>
       <link>//localhost:4321/blog/evergreen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/blog/evergreen/</guid>
       <description>Rendering mathematical equations Examples from the mathjax demo. But they work with katex as well.&#xA;Rmarkdown In .Rmarkdown documents, you can use either&#xA;$a \ne 0$ to get inline math: \(a \ne 0\). There is no conflict with using dollar symbols regularly, because knitr automatically escapes freestanding dollar symbols.&#xA;And you can use&#xA;$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$ to get a math paragraph:&#xA;$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.</description>
+    </item>
+    <item>
+      <title>What is a student-teacher bond</title>
+      <link>//localhost:4321/blog/seedling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/blog/seedling/</guid>
+      <description>Many of us have a teacher or professor whom we remember fondly. That educator did something that made us feel connected to them, and subsequently more engaged and interested in the material, as well as feeling better. This is the impact of a student-teacher emotional bond. Yet, many of us do not fully understand the impact these bonds have, what they actually do, and then how to build them. This section will cover the benefits and mechanisms of a quality student-teacher bond, and the Application section will delve into how to build it.</description>
     </item>
   </channel>
 </rss>

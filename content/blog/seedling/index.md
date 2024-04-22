@@ -2,8 +2,8 @@
 title: "What is a student-teacher bond"
 subtitle: "Ensuring an emotional connection"
 excerpt: "Being emotionally connected to your students will increase their ability to perform, learn, be motivated, and their loyalty. Quality student-teacher bonds has an increased association with positive emotions and a negative association with negative emotions. Yet what makes a good emotional bond will vary, but this section gives you the foundation to then apply it."
-date: 2021-01-02
-author: "Alison Hill"
+#date: 2021-01-02
+author: ""
 draft: false
 # layout options: single, single-sidebar
 layout: single
