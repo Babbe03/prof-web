@@ -118,13 +118,34 @@
       <link>//localhost:4321/about/header/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/about/header/</guid>
-      <description>I am the author of this website, and a Swede who is trying to survive the Nashville heat. :Sweden: :US:&#xA;What you are reading is my final project for my Educational Psychology class, PSY-PC 2600, at Vanderbilt University, taught by Professor Leigh Scheer.</description>
+      <description>I am the author of this website, and a Swede who is trying to survive the Nashville heat. &amp;#x1f1f8;&amp;#x1f1ea; &amp;#x1f1fa;&amp;#x1f1f8;&#xA;What you are reading is my final project for my Educational Psychology class, PSY-PC 2600, at Vanderbilt University, taught by Professor Leigh Scheer.</description>
     </item>
     <item>
       <title></title>
       <link>//localhost:4321/about/sidebar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/about/sidebar/</guid>
+      <description>** index doesn&amp;rsquo;t contain a body, just front matter above. See about/list.html in the layouts folder **</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:4321/reference/header/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/reference/header/</guid>
+      <description>Here is a list of the references used in the Theory sections of each topic. Further reading of the reference si highly recommended for greater understanding of the work that have informed this project.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:4321/reference/main/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/reference/main/</guid>
+      <description>** index doesn&amp;rsquo;t contain a body, just front matter above. See about/list.html in the layouts folder **</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:4321/reference/sidebar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/reference/sidebar/</guid>
       <description>** index doesn&amp;rsquo;t contain a body, just front matter above. See about/list.html in the layouts folder **</description>
     </item>
     <item>
@@ -160,7 +181,7 @@
       <link>//localhost:4321/talk/seedling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/talk/seedling/</guid>
-      <description>Fostering motivation requires consideration of four traits:&#xA;1. Competence 2. Autonomy 3. Relatedness 4. Culture The application techniques will be explained in detail so that you can use them directly, followed by a more theoretical explanation at the end.&#xA;Progressive Challenge When designing your curriculum, create a progressive and growing increase in challenge and demand. If the class is focused on writing essays, start the semester by having the students practice their writing.</description>
+      <description>Fostering motivation requires consideration of four traits:&#xA;1. Competence 2. Autonomy 3. Relatedness 4. Culture The application techniques will be explained in detail so that you can use them directly, followed by a more theoretical explanation at the end.&#xA;Progressive challenge When designing your curriculum, create a progressive and growing increase in challenge and demand. If the class is focused on writing essays, start the semester by having the students practice their writing.</description>
     </item>
     <item>
       <title>How to Gain and Maintain Attention</title>
@@ -184,7 +205,7 @@
       <description>Despite the criticality of ensuring retention, most professors seem to abide by a fairly straightforward approach: &amp;ldquo;If I understand it and can explain my understanding, then they should be able to understand also.&amp;rdquo; Therefore, it is no surprise that upon learning the material, students are better than professors at explaining the concepts in a varied way to other students. This deficit in an inability to vary teaching often explains many students&amp;rsquo; gripes with their professors.</description>
     </item>
     <item>
-      <title>What is a student-teacher bond</title>
+      <title>What is a Student-Teacher Bond</title>
       <link>//localhost:4321/blog/seedling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/blog/seedling/</guid>

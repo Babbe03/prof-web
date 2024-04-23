@@ -102,11 +102,19 @@
   </url><url>
     <loc>//localhost:4321/about/sidebar/</loc>
   </url><url>
+    <loc>//localhost:4321/reference/header/</loc>
+  </url><url>
+    <loc>//localhost:4321/reference/main/</loc>
+  </url><url>
+    <loc>//localhost:4321/reference/sidebar/</loc>
+  </url><url>
     <loc>//localhost:4321/about/</loc>
   </url><url>
     <loc>//localhost:4321/talk/second-seedling/</loc>
   </url><url>
     <loc>//localhost:4321/talk/</loc>
+  </url><url>
+    <loc>//localhost:4321/reference/</loc>
   </url><url>
     <loc>//localhost:4321/contributors/</loc>
   </url><url>

@@ -3,6 +3,7 @@ title: "What Is Good Feedback?"
 subtitle: "Understand what is needed for good feedback"
 excerpt: "Feedback is crucial to your students' academic success. If they do not know what they can improve upon, they will never be able to do better. Yet feedback can also be hurtful, uninsightful, and unmotivating. Therefore, to ensure good academic outcomes for students, you must understand how to give them feedback."
 date: 2021-01-27
+show_post_date: false
 author: ""
 draft: false
 tags:

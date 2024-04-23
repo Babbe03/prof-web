@@ -15,9 +15,7 @@ intro: |
   All information is taken from class notes unless otherwise specified. A page with references can be found in the headers; other resources of interest to the individual with ardor can be included. Feel free to start reading about the *Theory* of the areas or dive straight into *Application* if you wish.
 
 
-show_outro: true
-outro: |
-  <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
+
 ---
 
 ** index doesn't contain a body, just front matter above.

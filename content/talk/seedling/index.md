@@ -18,7 +18,7 @@ Fostering motivation requires consideration of four traits:
 
 The application techniques will be explained in detail so that you can use them directly, followed by a more theoretical explanation at the end.
 
-## Progressive Challenge
+## Progressive challenge
 
 When designing your curriculum, create a progressive and growing increase in challenge and demand. If the class is focused on writing essays, start the semester by having the students practice their writing. The ramp-up of challenges should model the development of student skills, not forcing them to do anything they have not practiced. While practice sounds lofty and grandiose, it can often be as simple as a quick test assignment. To develop writing skills, give your students a 1-page paper. To cultivate multiple-choice skills, give them a pop quiz. To prepare them for presentations, have them present their opinions to their classmates. The ramp-up will give your students time to develop skills before they are put under pressure and then allow them to approach the final assignments of the class naturally.
 
@@ -39,7 +39,7 @@ Furthermore, if there is a spot in your curriculum where you are unsure of what 
 
 By having students choose and giving them control, you give them a sense of autonomy that allows them to do work that naturally aligns with their beliefs and interests. Furthermore, giving them agency to structure and outline their work gives them an increased sense of competency through a clear and known frame of how they should express their capabilities.
 
-## Give Moments to Socialize
+## Give moments to socialize
 
 While it is easy to get wrapped up in teaching and teaching without paying heed to the students' social situations, it is pivotal to take any moment to allow students to feel connected to their environment.
 

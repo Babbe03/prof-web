@@ -3,6 +3,7 @@ title: "What Creates Long-term Retention?"
 subtitle: "Understanding the core tenets of long-term retention"
 excerpt: "The goal of teaching is to create an acquisition of knowledge in students. Yet, many professors repeat the same tactics without knowing their efficacy; students need variability, separation, and strategies for long-term retention. Without understanding what long-term retention is built on, a professor can never teach properly."
 #date: 
+show_post_date: false
 author: ""
 draft: false
 # layout options: single, single-sidebar
@@ -17,7 +18,7 @@ However, given the extremely dense and varied information surrounding learning, 
 
 This discussion will be based on a paper by Healy et al. (1993) about the nature of long-term retention and what a professor needs to know to ensure it. Healy et al. (1993) outline three main strategies and explain how they are related to long-term retention, which will be outlined below. 
 
-## Optimize Training Conditions 
+## Optimize training conditions 
 
 The first point made by Healy et al. (1993) was to optimize training conditions to create situations where your students can learn as much as possible. Healy et al. (1993) identified three key points that make a situation optimized:
 
@@ -31,7 +32,7 @@ Part-whole training means chunking a complex challenge into smaller parts that a
 
 The generation effect encourages students to create their own answers and solutions during the learning process instead of being passive listeners. By generating active answers and solutions, the process of learning becomes interactive and increases students' retention by having their own answers and solutions as the anchoring point for the acquisition of knowledge. 
 
-## Optimize Learning Strategies 
+## Optimize learning strategies 
 
 Healy et al. (1993) stress the importance of students' optimal learning strategies to encode and retrieve information. Without learning strategies, the acquisition of knowledge becomes inefficient. There are two learning strategies, according to Healy et al. (1993):
 
@@ -44,7 +45,7 @@ Retrieval practice is the act of forcing memory recall to train one's ability to
 
 These two types of learning strategies are two sides of the same coin. Encoded information becomes useless without retrieval; retrieving becomes useless without robust encoded information.
 
-## Automatic Processing 
+## Automatic processing 
 
 According to Healy et al. (1993), to secure full long-term retention, the learner needs to reach automaticity, where skills and knowledge can be applied without conscious effort and thought. Reaching this stage is time-consuming and challenging, but it is a key aspect of true retention. Healy et al. (1993) outline three components of the process of automaticity:
 

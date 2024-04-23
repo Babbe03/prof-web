@@ -4,6 +4,7 @@ subtitle: "Understanding and being able to foster intrinsic motivation"
 excerpt: "Motivation is why we do what we do; getting students to do anything requires them to be motivated. If you desire to get your students to do work, listen to you talk, and show up to class, you have to understand what drives and motivates them. Without that understanding, you are left trying to forcibly drag a horse when all it requires is a pat and a nudge.
 "
 date: 2021-01-27
+show_post_date: false
 author: ""
 draft: false
 tags:
