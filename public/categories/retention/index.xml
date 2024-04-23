@@ -12,7 +12,7 @@
       <link>//localhost:4321/blog/evergreen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/blog/evergreen/</guid>
-      <description>Rendering mathematical equations Examples from the mathjax demo. But they work with katex as well.&#xA;Rmarkdown In .Rmarkdown documents, you can use either&#xA;$a \ne 0$ to get inline math: \(a \ne 0\). There is no conflict with using dollar symbols regularly, because knitr automatically escapes freestanding dollar symbols.&#xA;And you can use&#xA;$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$ to get a math paragraph:&#xA;$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.</description>
+      <description>Despite the criticality of ensuring retention, most professors seem to abide by a fairly straight forward approach to ensuring it: &amp;ldquo;if I understand it and can explain my understanding, then they should be able to understand also&amp;rdquo;. Therefore, it may be of no surprise that upon learning the material, students are better than professors at explaining the concepts in a varied way to other students. This deficit in inability to vary teaching often explains many gripes some students have with their professors.</description>
     </item>
   </channel>
 </rss>
