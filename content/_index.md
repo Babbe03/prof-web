@@ -1,7 +1,7 @@
 ---
 title: "How to be a Professor"
 subtitle: "5 areas to master to secure a 5.0 on Rate my Professor"
-description: "Welcome to How to be a Professor, a guide to mastering the educational responsibilities of professorship! Here you will find the theory and application of five crucial areas of teaching that are essential for aspiring and seasoned professors alike. From ensuring learner retention to creating an emotional bond with your students, this guide will guarantee you can teach as a confident and successful professor."
+description: "Welcome to How to Be a Professor, a guide to mastering the educational responsibilities of professorship! Here, you will find the theory and application of five crucial teaching areas essential for aspiring and seasoned professors alike. From ensuring learner retention to creating an emotional bond with your students, this guide will guarantee you can teach as a confident and successful professor."
 images:
   - img/revoir.jpg
 image_left: true

@@ -62,21 +62,21 @@
       <link>//localhost:4321/blog/social/</link>
       <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/blog/social/</guid>
-      <description>Attention is such a fundamental concept that it seems pointless to discuss what it actually means. However, any fundamental concept always carries with it misconceptions perpetuated through tradition. Thereby, it seems most fitting to start with these misconceptions, and then move on to the implications of their dispelling.&#xA;1. Attention is not continuous. An experiment done by Bunce et al. in the chemistry department at the Catholic University of America was designed to answer three questions regarding student attention:</description>
+      <description>Attention is such a fundamental concept that discussing what it means seems pointless. However, any fundamental concept always carries with it misconceptions perpetuated through tradition. It seems most fitting to start with these misconceptions and then move on to the implications of their dispelling.&#xA;1. Attention is not continuous. An experiment done by Bunce et al. (2010) in the chemistry department at the Catholic University of America was designed to answer three questions regarding student attention:</description>
     </item>
     <item>
       <title>What Drives Student Motivation?</title>
       <link>//localhost:4321/blog/fonts/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/blog/fonts/</guid>
-      <description>Motivation is an innate concept, that is both hard and simple to define. Simply, it is why we do what we do. Yet, what drives motivation, the reason behind the why, is significantly more complex. Despite the singular name for motivation, it is not a singular entity; Motivation is highly varied between individuals. While some might value the praise and pride that comes with academic achievement, others simply do not care about it.</description>
+      <description>Motivation is an innate concept that is both hard and simple to define. Simply, it is why we do what we do. Yet, what drives motivation and the reason behind the why are significantly more complex. Despite the singular name for motivation, it is not a singular entity; Motivation is highly varied between individuals. While some might value the praise and pride of academic achievement, others do not care about it.</description>
     </item>
     <item>
       <title>What Is Good Feedback?</title>
       <link>//localhost:4321/blog/color-themes/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/blog/color-themes/</guid>
-      <description>Everyone reading this has both received and sent out a lot of feedback. Despite this, being able to formulate what is good feedback is still difficult. Is good feedback outcome-oriented, effort-based, unconditionally positive; should its purpose be to motivate, to increase academic outcome, to bring comfort? The difficult part of intuitively getting a definition is that everything seems correct. Feedback should both focus on outcome and effort, it should be positive yet constructive, it should bring comfort while motivating, and ultimately it should ensure positive academic outcomes.</description>
+      <description>Everyone reading this has both received and sent out a lot of feedback. Despite this, being able to formulate what is good feedback is still difficult. Is good feedback outcome-oriented, effort-based, and unconditionally positive; should its purpose be to motivate, increase academic outcomes, and bring comfort? The difficult part of intuitively getting a definition is that everything seems correct. Feedback should focus on outcome and effort; it should be positive yet constructive, bring comfort while motivating, and ultimately, ensure positive academic outcomes.</description>
     </item>
     <item>
       <title>Tachyons for Style</title>
@@ -107,7 +107,7 @@
       <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.&#xA;Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.</description>
     </item>
     <item>
-      <title>Typography Styles &amp; Element Examples</title>
+      <title>Bibliography</title>
       <link>//localhost:4321/elements/</link>
       <pubDate>Mon, 18 Feb 2019 12:27:33 -0600</pubDate>
       <guid>//localhost:4321/elements/</guid>
@@ -118,7 +118,7 @@
       <link>//localhost:4321/about/header/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/about/header/</guid>
-      <description>I am the author of this website, and a Swede who is trying to survive the Nashville heat. &amp;#x1f1f8;&amp;#x1f1ea; &amp;#x1f1fa;&amp;#x1f1f8;&#xA;What you are reading right now is my final project for my Educational Psychology class, PSY-PC 2600, at Vanderbilt University taught by Professor Leigh Scheer.</description>
+      <description>I am the author of this website, and a Swede who is trying to survive the Nashville heat. :Sweden: :US:&#xA;What you are reading is my final project for my Educational Psychology class, PSY-PC 2600, at Vanderbilt University, taught by Professor Leigh Scheer.</description>
     </item>
     <item>
       <title></title>
@@ -132,7 +132,7 @@
       <link>//localhost:4321/talk/second-seedling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/talk/second-seedling/</guid>
-      <description>The discussion of application will be rooted in the discussion outlined under the Theory section, and specifically call back to the 7 aspects highlighted there.&#xA;The application techniques will be explained in detail so that you can use them directly, then at the end will be a more theoretical explanation.&#xA;Give clear guidelines for assignments During any assignment, whether a presentation, project, essay, or exam, be open and honest to your student about your grading criteria.</description>
+      <description>The discussion of application will be rooted in the discussion outlined under the Theory section and specifically call back to the seven aspects highlighted there.&#xA;The application techniques will be explained in detail so that you can use them directly, followed by a more theoretical explanation at the end.&#xA;Give clear guidelines for assignments Be open and honest with your students about your grading criteria during any assignment, whether a presentation, project, essay, or exam.</description>
     </item>
     <item>
       <title>Contributors</title>
@@ -146,28 +146,28 @@
       <link>//localhost:4321/talk/bond/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/talk/bond/</guid>
-      <description>Given the discussion in the Theory section, we need to consider the five aspects of student-teacher bonds, those being:&#xA;1. Trust in benevolence 2. Trust in honesty 3. Affective commitmnet 4. Affective conflict 5. Satisfcation Out applications to build an emotional bond should then target these five aspects. The application techniques will first be explained in detail so that you can use them directly, then at the end will be a more theoretical explanation.</description>
+      <description>Given the discussion in the Theory section, we need to consider the five aspects of student-teacher bonds, those being:&#xA;1. Trust in benevolence 2. Trust in honesty 3. Affective commitment 4. Affective conflict 5. Satisfaction Out applications to build an emotional bond should then target these five aspects. The application techniques will first be explained in detail so that you can use them directly, and then, at the end, there will be a more theoretical explanation.</description>
     </item>
     <item>
       <title>Ensuring Long-Term Retention</title>
       <link>//localhost:4321/talk/retention/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/talk/retention/</guid>
-      <description>Frequent low-stakes tests Intersperse your curriculum with quizzes and small tests that hold little stakes. These quizzes should ideally be used at end of class or at the beginning of class, with different benefits to each. The end of the class quiz should focus more on encoding, while the beginning of class should focus on retrieval. However, it is in the students&amp;rsquo; interest to vary the format of the quizze, to not only use the same format repeatedly.</description>
+      <description>Frequent low-stakes tests Intersperse your curriculum with quizzes and small tests that hold little stakes. These quizzes with different benefits should be used at the end or the beginning of class. The end-of-class quiz should focus more on encoding, while the beginning-of-class quiz should focus on retrieval. However, it is in the student&amp;rsquo;s interest to vary the format of the quizzes rather than use the same format repeatedly.&#xA;Given that the end-of-class quiz will likely cover the material presented, the focus should be on having students generate answers and summaries about the topics.</description>
     </item>
     <item>
       <title>Fostering Motivation</title>
       <link>//localhost:4321/talk/seedling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/talk/seedling/</guid>
-      <description>Fostering motivation requires consideration of four traits:&#xA;1. Competence 2. Autonomy 3. Relatedness 4. Culture The application techniques will be explained in detail so that you can use them directly, then at the end will be a more theoretical explanation.&#xA;Progressive Challenge When designing your curriculum, create a progressive and growing increase in challenge and demand. If the class is focused on writing essays, then start the semester by the students practicing their writing.</description>
+      <description>Fostering motivation requires consideration of four traits:&#xA;1. Competence 2. Autonomy 3. Relatedness 4. Culture The application techniques will be explained in detail so that you can use them directly, followed by a more theoretical explanation at the end.&#xA;Progressive Challenge When designing your curriculum, create a progressive and growing increase in challenge and demand. If the class is focused on writing essays, start the semester by having the students practice their writing.</description>
     </item>
     <item>
       <title>How to Gain and Maintain Attention</title>
       <link>//localhost:4321/talk/campfire/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/talk/campfire/</guid>
-      <description>Based on the Theory, there are four things to center our applications around:&#xA;Allow for Internal/External shifts Novelty Intensity Movement/Motion The application techniques will be explained in detail so that you can use them directly, then at the end will be a more theoretical explanation.&#xA;Chunk your material No matter the length of your lecture, take the material and split it up to ~10 minute chunks. These chunks should ideally contain a slight separation of material, e.</description>
+      <description>Based on the Theory, there are four things to center our applications around:&#xA;Allow for Internal/External shifts Novelty Intensity Movement/Motion The application techniques will be explained in detail so that you can use them directly, followed by a more theoretical explanation at the end.&#xA;Chunk your material No matter the lecture length split the material into ~10-minute chunks. These chunks should ideally contain a slight separation of material, e.g., if you are covering Maslow&amp;rsquo;s hierarchy of needs impact on motivation, have one chunk be the details of Maslow&amp;rsquo;s ideas and one chunk be how it pertains to motivation.</description>
     </item>
     <item>
       <title>License</title>
@@ -181,14 +181,14 @@
       <link>//localhost:4321/blog/evergreen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/blog/evergreen/</guid>
-      <description>Despite the criticality of ensuring retention, most professors seem to abide by a fairly straight forward approach to ensuring it: &amp;ldquo;if I understand it and can explain my understanding, then they should be able to understand also&amp;rdquo;. Therefore, it may be of no surprise that upon learning the material, students are better than professors at explaining the concepts in a varied way to other students. This deficit in inability to vary teaching often explains many gripes some students have with their professors.</description>
+      <description>Despite the criticality of ensuring retention, most professors seem to abide by a fairly straightforward approach: &amp;ldquo;If I understand it and can explain my understanding, then they should be able to understand also.&amp;rdquo; Therefore, it is no surprise that upon learning the material, students are better than professors at explaining the concepts in a varied way to other students. This deficit in an inability to vary teaching often explains many students&amp;rsquo; gripes with their professors.</description>
     </item>
     <item>
       <title>What is a student-teacher bond</title>
       <link>//localhost:4321/blog/seedling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/blog/seedling/</guid>
-      <description>Many of us have a teacher or professor whom we remember fondly. That educator did something that made us feel connected to them, and subsequently more engaged and interested in the material, as well as feeling better. This is the impact of a student-teacher emotional bond. Yet, many of us do not fully understand the impact these bonds have, what they actually do, and then how to build them. This section will cover the benefits and mechanisms of a quality student-teacher bond, and the Application section will delve into how to build it.</description>
+      <description>Many of us have a teacher or professor whom we remember fondly. That educator did something that made us feel connected to them and subsequently more engaged and interested in the material, as well as feeling better. That is the impact of a student-teacher emotional bond. Yet, many of us do not fully understand these bonds&amp;rsquo; impact, what they actually do, and how to build them. This section will cover the benefits and mechanisms of a quality student-teacher bond, and the Application section will delve into how to build it.</description>
     </item>
     <item>
       <title>Why this project?</title>

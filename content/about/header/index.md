@@ -7,6 +7,6 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-I am the author of this website, and a Swede who is trying to survive the Nashville heat. :sweden: :us:
+I am the author of this website, and a Swede who is trying to survive the Nashville heat. :Sweden: :US:
 
-What you are reading right now is my final project for my Educational Psychology class, PSY-PC 2600, at Vanderbilt University taught by Professor Leigh Scheer. 
+What you are reading is my final project for my Educational Psychology class, PSY-PC 2600, at Vanderbilt University, taught by Professor Leigh Scheer. 
