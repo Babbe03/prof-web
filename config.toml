@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://be-a-professor.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Professor"

@@ -4,7 +4,7 @@ subtitle: "Practical Examples and Guidelines"
 excerpt: ""
 #date: 
 #date_end: ""
-author: "Abbe Knutsson"
+author: ""
 location: ""
 draft: false
 # layout options: single, single-sidebar
