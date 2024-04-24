@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bibliography on Professor</title>
-    <link>//localhost:4321/reference/</link>
+    <link>http://localhost:4321/reference/</link>
     <description>Recent content in Bibliography on Professor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="//localhost:4321/reference/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:4321/reference/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>//localhost:4321/reference/header/</link>
+      <link>http://localhost:4321/reference/header/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/reference/header/</guid>
+      <guid>http://localhost:4321/reference/header/</guid>
       <description>Here is a list of the references used in the Theory sections of each topic. Further reading of the reference si highly recommended for greater understanding of the work that have informed this project.</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:4321/reference/main/</link>
+      <link>http://localhost:4321/reference/main/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/reference/main/</guid>
+      <guid>http://localhost:4321/reference/main/</guid>
       <description>** index doesn&amp;rsquo;t contain a body, just front matter above. See about/list.html in the layouts folder **</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:4321/reference/sidebar/</link>
+      <link>http://localhost:4321/reference/sidebar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/reference/sidebar/</guid>
+      <guid>http://localhost:4321/reference/sidebar/</guid>
       <description>** index doesn&amp;rsquo;t contain a body, just front matter above. See about/list.html in the layouts folder **</description>
     </item>
   </channel>

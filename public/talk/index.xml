@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Application of Theory on Professor</title>
-    <link>//localhost:4321/talk/</link>
+    <link>http://localhost:4321/talk/</link>
     <description>Recent content in Application of Theory on Professor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="//localhost:4321/talk/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:4321/talk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Administer Good Feedback</title>
-      <link>//localhost:4321/talk/second-seedling/</link>
+      <link>http://localhost:4321/talk/second-seedling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/talk/second-seedling/</guid>
+      <guid>http://localhost:4321/talk/second-seedling/</guid>
       <description>The discussion of application will be rooted in the discussion outlined under the Theory section and specifically call back to the seven aspects highlighted there.&#xA;The application techniques will be explained in detail so that you can use them directly, followed by a more theoretical explanation at the end.&#xA;Give clear guidelines for assignments Be open and honest with your students about your grading criteria during any assignment, whether a presentation, project, essay, or exam.</description>
     </item>
     <item>
       <title>Create an Emotional Bond</title>
-      <link>//localhost:4321/talk/bond/</link>
+      <link>http://localhost:4321/talk/bond/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/talk/bond/</guid>
+      <guid>http://localhost:4321/talk/bond/</guid>
       <description>Given the discussion in the Theory section, we need to consider the five aspects of student-teacher bonds, those being:&#xA;1. Trust in benevolence 2. Trust in honesty 3. Affective commitment 4. Affective conflict 5. Satisfaction Out applications to build an emotional bond should then target these five aspects. The application techniques will first be explained in detail so that you can use them directly, and then, at the end, there will be a more theoretical explanation.</description>
     </item>
     <item>
       <title>Ensuring Long-Term Retention</title>
-      <link>//localhost:4321/talk/retention/</link>
+      <link>http://localhost:4321/talk/retention/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/talk/retention/</guid>
+      <guid>http://localhost:4321/talk/retention/</guid>
       <description>Frequent low-stakes tests Intersperse your curriculum with quizzes and small tests that hold little stakes. These quizzes with different benefits should be used at the end or the beginning of class. The end-of-class quiz should focus more on encoding, while the beginning-of-class quiz should focus on retrieval. However, it is in the student&amp;rsquo;s interest to vary the format of the quizzes rather than use the same format repeatedly.&#xA;Given that the end-of-class quiz will likely cover the material presented, the focus should be on having students generate answers and summaries about the topics.</description>
     </item>
     <item>
       <title>Fostering Motivation</title>
-      <link>//localhost:4321/talk/seedling/</link>
+      <link>http://localhost:4321/talk/seedling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/talk/seedling/</guid>
+      <guid>http://localhost:4321/talk/seedling/</guid>
       <description>Fostering motivation requires consideration of four traits:&#xA;1. Competence 2. Autonomy 3. Relatedness 4. Culture The application techniques will be explained in detail so that you can use them directly, followed by a more theoretical explanation at the end.&#xA;Progressive challenge When designing your curriculum, create a progressive and growing increase in challenge and demand. If the class is focused on writing essays, start the semester by having the students practice their writing.</description>
     </item>
     <item>
       <title>How to Gain and Maintain Attention</title>
-      <link>//localhost:4321/talk/campfire/</link>
+      <link>http://localhost:4321/talk/campfire/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/talk/campfire/</guid>
+      <guid>http://localhost:4321/talk/campfire/</guid>
       <description>Based on the Theory, there are four things to center our applications around:&#xA;Allow for Internal/External shifts Novelty Intensity Movement/Motion The application techniques will be explained in detail so that you can use them directly, followed by a more theoretical explanation at the end.&#xA;Chunk your material No matter the lecture length split the material into ~10-minute chunks. These chunks should ideally contain a slight separation of material, e.g., if you are covering Maslow&amp;rsquo;s hierarchy of needs impact on motivation, have one chunk be the details of Maslow&amp;rsquo;s ideas and one chunk be how it pertains to motivation.</description>
     </item>
   </channel>

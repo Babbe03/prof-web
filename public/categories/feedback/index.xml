@@ -2,25 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Feedback on Professor</title>
-    <link>//localhost:4321/categories/feedback/</link>
+    <link>http://localhost:4321/categories/feedback/</link>
     <description>Recent content in Feedback on Professor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/categories/feedback/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>What Is Good Feedback?</title>
-      <link>//localhost:4321/blog/color-themes/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/blog/color-themes/</guid>
-      <description>Everyone reading this has both received and sent out a lot of feedback. Despite this, being able to formulate what is good feedback is still difficult. Is good feedback outcome-oriented, effort-based, and unconditionally positive; should its purpose be to motivate, increase academic outcomes, and bring comfort? The difficult part of intuitively getting a definition is that everything seems correct. Feedback should focus on outcome and effort; it should be positive yet constructive, bring comfort while motivating, and ultimately, ensure positive academic outcomes.</description>
-    </item>
+    <atom:link href="http://localhost:4321/categories/feedback/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Administer Good Feedback</title>
-      <link>//localhost:4321/talk/second-seedling/</link>
+      <link>http://localhost:4321/talk/second-seedling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/talk/second-seedling/</guid>
+      <guid>http://localhost:4321/talk/second-seedling/</guid>
       <description>The discussion of application will be rooted in the discussion outlined under the Theory section and specifically call back to the seven aspects highlighted there.&#xA;The application techniques will be explained in detail so that you can use them directly, followed by a more theoretical explanation at the end.&#xA;Give clear guidelines for assignments Be open and honest with your students about your grading criteria during any assignment, whether a presentation, project, essay, or exam.</description>
+    </item>
+    <item>
+      <title>What Is Good Feedback?</title>
+      <link>http://localhost:4321/blog/color-themes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/blog/color-themes/</guid>
+      <description>Everyone reading this has both received and sent out a lot of feedback. Despite this, being able to formulate what is good feedback is still difficult. Is good feedback outcome-oriented, effort-based, and unconditionally positive; should its purpose be to motivate, increase academic outcomes, and bring comfort? The difficult part of intuitively getting a definition is that everything seems correct. Feedback should focus on outcome and effort; it should be positive yet constructive, bring comfort while motivating, and ultimately, ensure positive academic outcomes.</description>
     </item>
   </channel>
 </rss>

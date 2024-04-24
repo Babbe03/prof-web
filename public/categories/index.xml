@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Professor</title>
-    <link>//localhost:4321/categories/</link>
+    <link>http://localhost:4321/categories/</link>
     <description>Recent content in Categories on Professor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:4321/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Attention</title>
-      <link>//localhost:4321/categories/attention/</link>
+      <link>http://localhost:4321/categories/attention/</link>
       <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/categories/attention/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Feedback</title>
-      <link>//localhost:4321/categories/feedback/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/categories/feedback/</guid>
+      <guid>http://localhost:4321/categories/attention/</guid>
       <description></description>
     </item>
     <item>
       <title>Motivation</title>
-      <link>//localhost:4321/categories/motivation/</link>
+      <link>http://localhost:4321/categories/motivation/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/categories/motivation/</guid>
+      <guid>http://localhost:4321/categories/motivation/</guid>
       <description></description>
     </item>
     <item>
       <title>Package</title>
-      <link>//localhost:4321/categories/package/</link>
+      <link>http://localhost:4321/categories/package/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/categories/package/</guid>
+      <guid>http://localhost:4321/categories/package/</guid>
       <description></description>
     </item>
     <item>
       <title>R</title>
-      <link>//localhost:4321/categories/r/</link>
+      <link>http://localhost:4321/categories/r/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/categories/r/</guid>
+      <guid>http://localhost:4321/categories/r/</guid>
       <description></description>
     </item>
     <item>
       <title>Theme Features</title>
-      <link>//localhost:4321/categories/theme-features/</link>
+      <link>http://localhost:4321/categories/theme-features/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/categories/theme-features/</guid>
+      <guid>http://localhost:4321/categories/theme-features/</guid>
       <description></description>
     </item>
     <item>
       <title>Emotional Bond</title>
-      <link>//localhost:4321/categories/emotional-bond/</link>
+      <link>http://localhost:4321/categories/emotional-bond/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/categories/emotional-bond/</guid>
+      <guid>http://localhost:4321/categories/emotional-bond/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Feedback</title>
+      <link>http://localhost:4321/categories/feedback/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/feedback/</guid>
       <description></description>
     </item>
     <item>
       <title>Retention</title>
-      <link>//localhost:4321/categories/retention/</link>
+      <link>http://localhost:4321/categories/retention/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/categories/retention/</guid>
+      <guid>http://localhost:4321/categories/retention/</guid>
       <description></description>
     </item>
   </channel>

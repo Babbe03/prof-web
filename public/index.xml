@@ -2,220 +2,220 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>How to be a Professor on Professor</title>
-    <link>//localhost:4321/</link>
+    <link>http://localhost:4321/</link>
     <description>Recent content in How to be a Professor on Professor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Netlify</title>
-      <link>//localhost:4321/collection/day02/01-netlify/</link>
+      <link>http://localhost:4321/collection/day02/01-netlify/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/collection/day02/01-netlify/</guid>
+      <guid>http://localhost:4321/collection/day02/01-netlify/</guid>
       <description>So far, we&amp;rsquo;ve been leveraging GitHub Pages for publishing. This works great, but for blogdown we&amp;rsquo;ll start using Netlify. Let&amp;rsquo;s start RIGHT NOW with a site we&amp;rsquo;ve already built and published.&#xA;Pre-requisites Pick either your postcards site, or your distill site from day 01. Refresh your memory- which repository was it again?</description>
     </item>
     <item>
       <title>A GitHub profile</title>
-      <link>//localhost:4321/collection/day01/01-github/</link>
+      <link>http://localhost:4321/collection/day01/01-github/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/collection/day01/01-github/</guid>
+      <guid>http://localhost:4321/collection/day01/01-github/</guid>
       <description>Profile https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile&#xA;Pin projects to profile https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile&#xA;Profile README This is new! Let&amp;rsquo;s do it:&#xA;https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme</description>
     </item>
     <item>
       <title>Prework</title>
-      <link>//localhost:4321/collection/prework/</link>
+      <link>http://localhost:4321/collection/prework/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/collection/prework/</guid>
+      <guid>http://localhost:4321/collection/prework/</guid>
       <description>Welcome to the Introducing Yourself Online workshop! We look forward to meeting you. Before attending the workshop, please complete the following prework.&#xA;Set up RStudio Cloud Sign up for a free RStudio Cloud account at https://rstudio.cloud/ before the workshop. I recommend logging in with an existing Google or GitHub account, if you have one (rather than creating a new account with another password you have to remember). I want you to be able to work from your own laptop in this workshop, but Cloud is an important back-up plan should you run into troubles.</description>
     </item>
     <item>
       <title>A postcard</title>
-      <link>//localhost:4321/collection/day01/02-postcards/</link>
+      <link>http://localhost:4321/collection/day01/02-postcards/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/collection/day01/02-postcards/</guid>
+      <guid>http://localhost:4321/collection/day01/02-postcards/</guid>
       <description>Pre-requisites First, make sure you have the latest version of the postcards package installed from CRAN:&#xA;install.packages(&amp;#34;postcards&amp;#34;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:&#xA;Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS). packageVersion(&amp;#34;postcards&amp;#34;) [1] ‘0.2.0’ Create GitHub repo Online.&#xA;Clone GitHub repo usethis::create_from_github(&amp;#34;https://github.com/apreshill/global-postcard.git&amp;#34;) &amp;#x2728; Commit &amp;amp; Push! &amp;#x2728;</description>
     </item>
     <item>
       <title>Using blogdown</title>
-      <link>//localhost:4321/collection/day02/02-blogdown/</link>
+      <link>http://localhost:4321/collection/day02/02-blogdown/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/collection/day02/02-blogdown/</guid>
+      <guid>http://localhost:4321/collection/day02/02-blogdown/</guid>
       <description>Pre-requisites First, make sure you have the latest version of the blogdown package installed from CRAN:&#xA;install.packages(&amp;#34;blogdoown&amp;#34;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:&#xA;Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS). packageVersion(&amp;#34;blogdown&amp;#34;) [1] ‘1.0’ Create GitHub repo Online.&#xA;Clone GitHub repo usethis::create_from_github(&amp;#34;https://github.com/apreshill/global-blogdown.git&amp;#34;) &amp;#x2728; Commit &amp;amp; Push! &amp;#x2728;</description>
     </item>
     <item>
       <title>A distill site</title>
-      <link>//localhost:4321/collection/day01/03-distill/</link>
+      <link>http://localhost:4321/collection/day01/03-distill/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/collection/day01/03-distill/</guid>
+      <guid>http://localhost:4321/collection/day01/03-distill/</guid>
       <description>Pre-requisites First, make sure you have the latest version of the distill package installed from CRAN:&#xA;install.packages(&amp;quot;distill&amp;quot;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:&#xA;Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS). packageVersion(&amp;#34;distill&amp;#34;) # [1] ‘1.2’ Create GitHub repo Online.&#xA;Clone GitHub repo usethis::create_from_github(&amp;quot;https://github.com/apreshill/global-distill.git&amp;quot;) &amp;#x2728; Commit &amp;amp; Push!</description>
     </item>
     <item>
       <title>Warm woolen mittens</title>
-      <link>//localhost:4321/collection/day02/03-blogdown/</link>
+      <link>http://localhost:4321/collection/day02/03-blogdown/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/collection/day02/03-blogdown/</guid>
+      <guid>http://localhost:4321/collection/day02/03-blogdown/</guid>
       <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.&#xA;Here I am: content/collection/day02/03-blogdown/index.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}&#xA;My content section is: collection My layout is: single-series part 2! does this work? now for some very cool things more get ready! </description>
     </item>
     <item>
       <title>What Is Attention?</title>
-      <link>//localhost:4321/blog/social/</link>
+      <link>http://localhost:4321/blog/social/</link>
       <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/blog/social/</guid>
+      <guid>http://localhost:4321/blog/social/</guid>
       <description>Attention is such a fundamental concept that discussing what it means seems pointless. However, any fundamental concept always carries with it misconceptions perpetuated through tradition. It seems most fitting to start with these misconceptions and then move on to the implications of their dispelling.&#xA;1. Attention is not continuous. An experiment done by Bunce et al. (2010) in the chemistry department at the Catholic University of America was designed to answer three questions regarding student attention:</description>
     </item>
     <item>
       <title>What Drives Student Motivation?</title>
-      <link>//localhost:4321/blog/fonts/</link>
+      <link>http://localhost:4321/blog/fonts/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/blog/fonts/</guid>
+      <guid>http://localhost:4321/blog/fonts/</guid>
       <description>Motivation is an innate concept that is both hard and simple to define. Simply, it is why we do what we do. Yet, what drives motivation and the reason behind the why are significantly more complex. Despite the singular name for motivation, it is not a singular entity; Motivation is highly varied between individuals. While some might value the praise and pride of academic achievement, others do not care about it.</description>
     </item>
     <item>
-      <title>What Is Good Feedback?</title>
-      <link>//localhost:4321/blog/color-themes/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/blog/color-themes/</guid>
-      <description>Everyone reading this has both received and sent out a lot of feedback. Despite this, being able to formulate what is good feedback is still difficult. Is good feedback outcome-oriented, effort-based, and unconditionally positive; should its purpose be to motivate, increase academic outcomes, and bring comfort? The difficult part of intuitively getting a definition is that everything seems correct. Feedback should focus on outcome and effort; it should be positive yet constructive, bring comfort while motivating, and ultimately, ensure positive academic outcomes.</description>
-    </item>
-    <item>
       <title>Tachyons for Style</title>
-      <link>//localhost:4321/project/giraffes/</link>
+      <link>http://localhost:4321/project/giraffes/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/project/giraffes/</guid>
+      <guid>http://localhost:4321/project/giraffes/</guid>
       <description>Tachyons is a design system that allows you to design gorgeous interfaces in the browser with little effort. Because Speed Building this static site generator theme was the first time I used an Atomic (or Functional) CSS system like Tachyons. It&amp;rsquo;s a design system that provides very small (which means fast) CSS modules that you can use in your HTML. So, rather than writing every line of CSS, you apply the style you need as you write your HTML with easy to understand shorthand class names.</description>
     </item>
     <item>
       <title>Palmer Penguins</title>
-      <link>//localhost:4321/project/penguins/</link>
+      <link>http://localhost:4321/project/penguins/</link>
       <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/project/penguins/</guid>
+      <guid>http://localhost:4321/project/penguins/</guid>
       <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.” — Chris House, A Complete Guide to CSS Grid Layout 1&#xA;Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips. Most times, while fighting with floats and widths of content and sidebars or just basically trying to get something beside something else without using a stupid TABLE.</description>
     </item>
     <item>
       <title>Bakeoff</title>
-      <link>//localhost:4321/project/bakeoff/</link>
+      <link>http://localhost:4321/project/bakeoff/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/project/bakeoff/</guid>
+      <guid>http://localhost:4321/project/bakeoff/</guid>
       <description>Formspree makes it easy to receive submissions from HTML forms on your static website. Functional Form This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used. Please use your actual email address.</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>//localhost:4321/contact/</link>
+      <link>http://localhost:4321/contact/</link>
       <pubDate>Mon, 25 Feb 2019 13:38:41 -0600</pubDate>
-      <guid>//localhost:4321/contact/</guid>
+      <guid>http://localhost:4321/contact/</guid>
       <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.&#xA;Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.</description>
     </item>
     <item>
       <title>Bibliography</title>
-      <link>//localhost:4321/elements/</link>
+      <link>http://localhost:4321/elements/</link>
       <pubDate>Mon, 18 Feb 2019 12:27:33 -0600</pubDate>
-      <guid>//localhost:4321/elements/</guid>
+      <guid>http://localhost:4321/elements/</guid>
       <description>Font Sizes A A A A A A A A 6rem&#xA;(96px) 5rem&#xA;(80px) 3rem&#xA;(48px) 2.25rem&#xA;(36px) 1.5rem&#xA;(24px) 1.25rem&#xA;(20px) 1rem&#xA;(16px) .875rem&#xA;(14px) Type Samples Head&amp;shy;line Sub&amp;shy;head&amp;shy;line Level 1 Heading One page to rule them all...well, not really. This page displays sample typography and page elements to illustrate their style. Things like headings and paragraphs showing the beautiful type scale, form elements, tabular data, and image layouts just to name a few.</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:4321/about/header/</link>
+      <link>http://localhost:4321/about/header/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/about/header/</guid>
+      <guid>http://localhost:4321/about/header/</guid>
       <description>I am the author of this website, and a Swede who is trying to survive the Nashville heat. &amp;#x1f1f8;&amp;#x1f1ea; &amp;#x1f1fa;&amp;#x1f1f8;&#xA;What you are reading is my final project for my Educational Psychology class, PSY-PC 2600, at Vanderbilt University, taught by Professor Leigh Scheer.</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:4321/about/sidebar/</link>
+      <link>http://localhost:4321/about/sidebar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/about/sidebar/</guid>
+      <guid>http://localhost:4321/about/sidebar/</guid>
       <description>** index doesn&amp;rsquo;t contain a body, just front matter above. See about/list.html in the layouts folder **</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:4321/reference/header/</link>
+      <link>http://localhost:4321/reference/header/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/reference/header/</guid>
+      <guid>http://localhost:4321/reference/header/</guid>
       <description>Here is a list of the references used in the Theory sections of each topic. Further reading of the reference si highly recommended for greater understanding of the work that have informed this project.</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:4321/reference/main/</link>
+      <link>http://localhost:4321/reference/main/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/reference/main/</guid>
+      <guid>http://localhost:4321/reference/main/</guid>
       <description>** index doesn&amp;rsquo;t contain a body, just front matter above. See about/list.html in the layouts folder **</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:4321/reference/sidebar/</link>
+      <link>http://localhost:4321/reference/sidebar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/reference/sidebar/</guid>
+      <guid>http://localhost:4321/reference/sidebar/</guid>
       <description>** index doesn&amp;rsquo;t contain a body, just front matter above. See about/list.html in the layouts folder **</description>
     </item>
     <item>
       <title>Administer Good Feedback</title>
-      <link>//localhost:4321/talk/second-seedling/</link>
+      <link>http://localhost:4321/talk/second-seedling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/talk/second-seedling/</guid>
+      <guid>http://localhost:4321/talk/second-seedling/</guid>
       <description>The discussion of application will be rooted in the discussion outlined under the Theory section and specifically call back to the seven aspects highlighted there.&#xA;The application techniques will be explained in detail so that you can use them directly, followed by a more theoretical explanation at the end.&#xA;Give clear guidelines for assignments Be open and honest with your students about your grading criteria during any assignment, whether a presentation, project, essay, or exam.</description>
     </item>
     <item>
       <title>Contributors</title>
-      <link>//localhost:4321/contributors/</link>
+      <link>http://localhost:4321/contributors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/contributors/</guid>
+      <guid>http://localhost:4321/contributors/</guid>
       <description>Thank you to all the folks who have contributed both technical and creative skills to this project:&#xA;Desirée De Leon &amp;#x1f992; (designed 5 of the custom color themes, made illustrations for the workshop, and provided general aesthetic feedback along the way)&#xA;Garrick Aden-Buie &amp;#x1f9d9; (debugged headroom.js and lent his panelset.js code to the theme)&#xA;Allison Horst &amp;#x1f415; (awesome illustrations of campfires, seedlings, and evergreens, as well as my R Markdown hedgehog mascot &amp;#x1f994;)</description>
     </item>
     <item>
       <title>Create an Emotional Bond</title>
-      <link>//localhost:4321/talk/bond/</link>
+      <link>http://localhost:4321/talk/bond/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/talk/bond/</guid>
+      <guid>http://localhost:4321/talk/bond/</guid>
       <description>Given the discussion in the Theory section, we need to consider the five aspects of student-teacher bonds, those being:&#xA;1. Trust in benevolence 2. Trust in honesty 3. Affective commitment 4. Affective conflict 5. Satisfaction Out applications to build an emotional bond should then target these five aspects. The application techniques will first be explained in detail so that you can use them directly, and then, at the end, there will be a more theoretical explanation.</description>
     </item>
     <item>
       <title>Ensuring Long-Term Retention</title>
-      <link>//localhost:4321/talk/retention/</link>
+      <link>http://localhost:4321/talk/retention/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/talk/retention/</guid>
+      <guid>http://localhost:4321/talk/retention/</guid>
       <description>Frequent low-stakes tests Intersperse your curriculum with quizzes and small tests that hold little stakes. These quizzes with different benefits should be used at the end or the beginning of class. The end-of-class quiz should focus more on encoding, while the beginning-of-class quiz should focus on retrieval. However, it is in the student&amp;rsquo;s interest to vary the format of the quizzes rather than use the same format repeatedly.&#xA;Given that the end-of-class quiz will likely cover the material presented, the focus should be on having students generate answers and summaries about the topics.</description>
     </item>
     <item>
       <title>Fostering Motivation</title>
-      <link>//localhost:4321/talk/seedling/</link>
+      <link>http://localhost:4321/talk/seedling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/talk/seedling/</guid>
+      <guid>http://localhost:4321/talk/seedling/</guid>
       <description>Fostering motivation requires consideration of four traits:&#xA;1. Competence 2. Autonomy 3. Relatedness 4. Culture The application techniques will be explained in detail so that you can use them directly, followed by a more theoretical explanation at the end.&#xA;Progressive challenge When designing your curriculum, create a progressive and growing increase in challenge and demand. If the class is focused on writing essays, start the semester by having the students practice their writing.</description>
     </item>
     <item>
       <title>How to Gain and Maintain Attention</title>
-      <link>//localhost:4321/talk/campfire/</link>
+      <link>http://localhost:4321/talk/campfire/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/talk/campfire/</guid>
+      <guid>http://localhost:4321/talk/campfire/</guid>
       <description>Based on the Theory, there are four things to center our applications around:&#xA;Allow for Internal/External shifts Novelty Intensity Movement/Motion The application techniques will be explained in detail so that you can use them directly, followed by a more theoretical explanation at the end.&#xA;Chunk your material No matter the lecture length split the material into ~10-minute chunks. These chunks should ideally contain a slight separation of material, e.g., if you are covering Maslow&amp;rsquo;s hierarchy of needs impact on motivation, have one chunk be the details of Maslow&amp;rsquo;s ideas and one chunk be how it pertains to motivation.</description>
     </item>
     <item>
       <title>License</title>
-      <link>//localhost:4321/license/</link>
+      <link>http://localhost:4321/license/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/license/</guid>
+      <guid>http://localhost:4321/license/</guid>
       <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.</description>
     </item>
     <item>
       <title>What Creates Long-term Retention?</title>
-      <link>//localhost:4321/blog/evergreen/</link>
+      <link>http://localhost:4321/blog/evergreen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/blog/evergreen/</guid>
+      <guid>http://localhost:4321/blog/evergreen/</guid>
       <description>Despite the criticality of ensuring retention, most professors seem to abide by a fairly straightforward approach: &amp;ldquo;If I understand it and can explain my understanding, then they should be able to understand also.&amp;rdquo; Therefore, it is no surprise that upon learning the material, students are better than professors at explaining the concepts in a varied way to other students. This deficit in an inability to vary teaching often explains many students&amp;rsquo; gripes with their professors.</description>
     </item>
     <item>
       <title>What is a Student-Teacher Bond</title>
-      <link>//localhost:4321/blog/seedling/</link>
+      <link>http://localhost:4321/blog/seedling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/blog/seedling/</guid>
+      <guid>http://localhost:4321/blog/seedling/</guid>
       <description>Many of us have a teacher or professor whom we remember fondly. That educator did something that made us feel connected to them and subsequently more engaged and interested in the material, as well as feeling better. That is the impact of a student-teacher emotional bond. Yet, many of us do not fully understand these bonds&amp;rsquo; impact, what they actually do, and how to build them. This section will cover the benefits and mechanisms of a quality student-teacher bond, and the Application section will delve into how to build it.</description>
     </item>
     <item>
-      <title>Why this project?</title>
-      <link>//localhost:4321/about/main/</link>
+      <title>What Is Good Feedback?</title>
+      <link>http://localhost:4321/blog/color-themes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/about/main/</guid>
+      <guid>http://localhost:4321/blog/color-themes/</guid>
+      <description>Everyone reading this has both received and sent out a lot of feedback. Despite this, being able to formulate what is good feedback is still difficult. Is good feedback outcome-oriented, effort-based, and unconditionally positive; should its purpose be to motivate, increase academic outcomes, and bring comfort? The difficult part of intuitively getting a definition is that everything seems correct. Feedback should focus on outcome and effort; it should be positive yet constructive, bring comfort while motivating, and ultimately, ensure positive academic outcomes.</description>
+    </item>
+    <item>
+      <title>Why this project?</title>
+      <link>http://localhost:4321/about/main/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/about/main/</guid>
       <description>** index doesn&amp;rsquo;t contain a body, just front matter above. See about/list.html in the layouts folder **</description>
     </item>
   </channel>

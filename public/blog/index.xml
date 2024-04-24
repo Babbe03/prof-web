@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Theory on Professor</title>
-    <link>//localhost:4321/blog/</link>
+    <link>http://localhost:4321/blog/</link>
     <description>Recent content in Theory on Professor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:4321/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What Is Attention?</title>
-      <link>//localhost:4321/blog/social/</link>
+      <link>http://localhost:4321/blog/social/</link>
       <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/blog/social/</guid>
+      <guid>http://localhost:4321/blog/social/</guid>
       <description>Attention is such a fundamental concept that discussing what it means seems pointless. However, any fundamental concept always carries with it misconceptions perpetuated through tradition. It seems most fitting to start with these misconceptions and then move on to the implications of their dispelling.&#xA;1. Attention is not continuous. An experiment done by Bunce et al. (2010) in the chemistry department at the Catholic University of America was designed to answer three questions regarding student attention:</description>
     </item>
     <item>
       <title>What Drives Student Motivation?</title>
-      <link>//localhost:4321/blog/fonts/</link>
+      <link>http://localhost:4321/blog/fonts/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/blog/fonts/</guid>
+      <guid>http://localhost:4321/blog/fonts/</guid>
       <description>Motivation is an innate concept that is both hard and simple to define. Simply, it is why we do what we do. Yet, what drives motivation and the reason behind the why are significantly more complex. Despite the singular name for motivation, it is not a singular entity; Motivation is highly varied between individuals. While some might value the praise and pride of academic achievement, others do not care about it.</description>
     </item>
     <item>
-      <title>What Is Good Feedback?</title>
-      <link>//localhost:4321/blog/color-themes/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/blog/color-themes/</guid>
-      <description>Everyone reading this has both received and sent out a lot of feedback. Despite this, being able to formulate what is good feedback is still difficult. Is good feedback outcome-oriented, effort-based, and unconditionally positive; should its purpose be to motivate, increase academic outcomes, and bring comfort? The difficult part of intuitively getting a definition is that everything seems correct. Feedback should focus on outcome and effort; it should be positive yet constructive, bring comfort while motivating, and ultimately, ensure positive academic outcomes.</description>
-    </item>
-    <item>
       <title>What Creates Long-term Retention?</title>
-      <link>//localhost:4321/blog/evergreen/</link>
+      <link>http://localhost:4321/blog/evergreen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/blog/evergreen/</guid>
+      <guid>http://localhost:4321/blog/evergreen/</guid>
       <description>Despite the criticality of ensuring retention, most professors seem to abide by a fairly straightforward approach: &amp;ldquo;If I understand it and can explain my understanding, then they should be able to understand also.&amp;rdquo; Therefore, it is no surprise that upon learning the material, students are better than professors at explaining the concepts in a varied way to other students. This deficit in an inability to vary teaching often explains many students&amp;rsquo; gripes with their professors.</description>
     </item>
     <item>
       <title>What is a Student-Teacher Bond</title>
-      <link>//localhost:4321/blog/seedling/</link>
+      <link>http://localhost:4321/blog/seedling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/blog/seedling/</guid>
+      <guid>http://localhost:4321/blog/seedling/</guid>
       <description>Many of us have a teacher or professor whom we remember fondly. That educator did something that made us feel connected to them and subsequently more engaged and interested in the material, as well as feeling better. That is the impact of a student-teacher emotional bond. Yet, many of us do not fully understand these bonds&amp;rsquo; impact, what they actually do, and how to build them. This section will cover the benefits and mechanisms of a quality student-teacher bond, and the Application section will delve into how to build it.</description>
+    </item>
+    <item>
+      <title>What Is Good Feedback?</title>
+      <link>http://localhost:4321/blog/color-themes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/blog/color-themes/</guid>
+      <description>Everyone reading this has both received and sent out a lot of feedback. Despite this, being able to formulate what is good feedback is still difficult. Is good feedback outcome-oriented, effort-based, and unconditionally positive; should its purpose be to motivate, increase academic outcomes, and bring comfort? The difficult part of intuitively getting a definition is that everything seems correct. Feedback should focus on outcome and effort; it should be positive yet constructive, bring comfort while motivating, and ultimately, ensure positive academic outcomes.</description>
     </item>
   </channel>
 </rss>
