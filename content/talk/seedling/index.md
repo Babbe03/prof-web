@@ -7,7 +7,7 @@ author: ""
 # layout options: single, single-sidebar
 layout: single
 categories:
-- motivation
+- Motivation
 ---
 
 Fostering motivation requires consideration of four traits:

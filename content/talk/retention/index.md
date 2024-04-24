@@ -7,7 +7,7 @@ author: ""
 # layout options: single, single-sidebar
 layout: single
 categories:
-- retention
+- Retention
 ---
 
 ## Frequent low-stakes tests
