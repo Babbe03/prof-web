@@ -3,6 +3,7 @@ title: "Fostering Motivation"
 subtitle: "How to get your students to do something"
 excerpt: ""
 draft: false
+author: ""
 # layout options: single, single-sidebar
 layout: single
 categories:

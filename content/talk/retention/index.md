@@ -3,6 +3,7 @@ title: "Ensuring Long-Term Retention"
 subtitle: "How to make your students remember"
 excerpt: ""
 draft: false
+author: ""
 # layout options: single, single-sidebar
 layout: single
 categories:
