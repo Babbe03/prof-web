@@ -1,7 +1,7 @@
 ---
 title: Application of Theory
 description: |
-  Each section starts with a list of specific techniques, and ends with explaining the reasoning behind the choices. 
+  Each section contains a list of specific techniques with connections to the theoretical background. 
 author: "The R Markdown Team @RStudio"
 show_post_thumbnail: true
 show_author_byline: false
