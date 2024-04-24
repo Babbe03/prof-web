@@ -1,5 +1,5 @@
 ---
-title: Application of Theory
+title: Application
 description: |
   Each section contains a list of specific techniques with connections to the theoretical background. 
 author: "The R Markdown Team @RStudio"
