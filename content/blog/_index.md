@@ -20,8 +20,6 @@ sidebar:
     
     
   author: "Abbe Knutsson"
-  text_link_label: Subscribe via RSS
-  text_link_url: /index.xml
   categories_link: true
   series_link: false
   tags_link: false
